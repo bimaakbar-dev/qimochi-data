@@ -8,14 +8,13 @@ kitsuId: "49984"
 
 type: TV
 status: finished
-rating: PG-13
 source: manga
 
 season: spring
 year: 2026
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2026-04-14"
@@ -40,6 +39,8 @@ trailer: "oGJrnyjDbsA"
 draft: false
 ---
 
-Childhood friends Yukiya and Miku share everything…except their feelings. Ever since sixth grade, they’ve played a “love game”: they take turns saying “I love you” and whoever gets flustered first loses. Now in high school, their hearts are closer than ever—but will they finally find the courage to confess?
+Yukiya dan Miku, dua sahabat sejak kecil, memiliki hubungan yang sangat dekat. Mereka berbagi banyak hal dalam hidup mereka, namun ada satu hal yang belum pernah mereka ungkapkan secara terbuka: perasaan mereka.
 
-(Source: Crunchyroll)
+Sejak kelas enam SD, mereka bermain "permainan cinta" yang unik. Mereka bergiliran mengungkapkan kata-kata "Aku cinta kamu" dan siapa pun yang terlihat gugup atau kerepotan pertama kali akan dianggap kalah. Permainan ini terus berlanjut hingga mereka berdua memasuki masa sekolah menengah atas. 
+
+Sekarang, dengan hati yang semakin dekat, Yukiya dan Miku harus menghadapi tantangan untuk mengungkapkan perasaan sebenarnya. Apakah mereka akan menemukan keberanian untuk mengakui perasaan mereka dan mengubah dinamika persahabatan mereka?
