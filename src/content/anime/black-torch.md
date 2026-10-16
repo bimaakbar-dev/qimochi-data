@@ -8,14 +8,13 @@ kitsuId: "49656"
 
 type: TV
 status: finished
-rating: PG-13
 source: manga
 
 season: summer
 year: 2026
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2026-07-04"
@@ -42,6 +41,8 @@ trailer: "2clp09dITKY"
 draft: false
 ---
 
-Jirou Azuma is no average high schooler. A descendant of ninjas and trained in the ancient warrior art of the shinobi, Jirou is also able to talk with animals. After a mysterious encounter with an injured cat named Ragou, Jirou discovers the feline is actually the legendary Black Star of Doom! Joined by the Bureau of Espionage, they fight off swarms of mononoke lying in wait to exploit Ragou’s powers.
+Jirou Azuma adalah seorang siswa SMA yang tidak biasa. Ia merupakan keturunan ninja dan telah dilatih dalam seni perang kuno shinobi. Selain itu, Jirou juga memiliki kemampuan unik untuk berbicara dengan hewan. 
 
-(Source: Crunchyroll)
+Suatu hari, Jirou bertemu dengan seekor kucing yang terluka bernama Ragou. Pertemuan ini membawa Jirou ke dalam sebuah petualangan yang tidak terduga. Ragou ternyata bukanlah kucing biasa, melainkan sebuah kekuatan legendaris yang sangat diburu oleh banyak pihak.
+
+Bersama dengan Bureau of Espionage, Jirou harus melawan berbagai musuh yang ingin mengambil kekuatan Ragou untuk kepentingan mereka sendiri. Dengan latar belakang sebagai seorang ninja dan kemampuan uniknya, Jirou siap untuk menghadapi tantangan ini dan melindungi Ragou dari mereka yang ingin berbuat jahat.
