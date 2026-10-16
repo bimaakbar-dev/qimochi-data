@@ -5,33 +5,74 @@
     "aired": "2024-07-05",
     "duration": 24,
     "streams": [
-      {
-        "quality": "480p",
-        "servers": [
-          {
-            "name": "otakuwatch",
-            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYclB6R245cElxYmxWaVhxeUYzRTIxUT0="
-          }
-        ]
-      }
-    ]
+    {
+      "quality": "720p",
+      "servers": [
+        {
+          "name": "solidfiles",
+          "url": "https://www.solidfiles.com/e/Nj7AM7WnqRMw7"
+        }
+      ]
+    },
+    {
+      "quality": "480p",
+      "servers": [
+        {
+          "name": "solidfiles",
+          "url": "https://www.solidfiles.com/e/nYZMmZ3665wzp"
+        },
+        {
+          "name": "otakuwatch",
+          "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYclB6R245cElxYmxWaVhxeUYzRTIxUT0="
+        }
+      ]
+    },
+    {
+      "quality": "360p",
+      "servers": [
+        {
+          "name": "solidfiles",
+          "url": "https://www.solidfiles.com/e/nYZMmBq5eZpL8"
+        }
+      ]
+    }
+  ]
   },
   {
     "number": 2,
-    "title": "Cosplay Group Potential?",
-    "aired": "2024-07-12",
-    "duration": 24,
-    "streams": [
-      {
-        "quality": "480p",
-        "servers": [
-          {
-            "name": "otakuwatch",
-            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYdXdsNzgreklaQzl6c29LcVRQNURUMD0="
-          }
-        ]
-      }
-    ]
+  "streams": [
+    {
+      "quality": "720p",
+      "servers": [
+        {
+          "name": "solidfiles",
+          "url": "https://www.solidfiles.com/e/gRrazXeK3XXdK"
+        }
+      ]
+    },
+    {
+      "quality": "480p",
+      "servers": [
+        {
+          "name": "solidfiles",
+          "url": "https://www.solidfiles.com/e/dk4dR4dRPRvyW"
+        },
+        {
+          "name": "otakuwatch",
+          "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYdXdsNzgreklaQzl6c29LcVRQNURUMD0="
+        }
+      ]
+    },
+    {
+      "quality": "360p",
+      "servers": [
+        {
+          "name": "solidfiles",
+          "url": "https://www.solidfiles.com/e/LjmBRmg3x3L5w"
+        }
+      ]
+    }
+  ]
   },
   {
     "number": 3,
@@ -39,16 +80,38 @@
     "aired": "2024-07-19",
     "duration": 24,
     "streams": [
-      {
-        "quality": "480p",
-        "servers": [
-          {
-            "name": "otakuwatch",
-            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYblRJVXJvUnZ5ek9LSWEvbStqTmVnWT0="
-          }
-        ]
-      }
-    ]
+    {
+      "quality": "720p",
+      "servers": [
+        {
+          "name": "solidfiles",
+          "url": "https://www.solidfiles.com/e/qGQrkRwkLqPmG"
+        }
+      ]
+    },
+    {
+      "quality": "480p",
+      "servers": [
+        {
+          "name": "solidfiles",
+          "url": "https://www.solidfiles.com/e/Kv78ByWV6nWyd"
+        },
+        {
+          "name": "otakuwatch",
+          "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=NlpDeTdxN0l0TFE4MDd2M3lYYXhYblRJVXJvUnZ5ek9LSWEvbStqTmVnWT0="
+        }
+      ]
+    },
+    {
+      "quality": "360p",
+      "servers": [
+        {
+          "name": "solidfiles",
+          "url": "https://www.solidfiles.com/e/Kv78B7LMLPq4N"
+        }
+      ]
+    }
+  ]
   },
   {
     "number": 4,
