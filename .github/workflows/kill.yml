@@ -1,0 +1,178 @@
+name: Prune anime tanpa streams
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (tidak menghapus apapun)'
+        type: boolean
+        default: true
+      delete_orphans:
+        description: 'Hapus juga folder data tanpa MD'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  prune:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate structure
+        run: |
+          [ -d "src/content/anime" ] || { echo "❌ src/content/anime tidak ada"; exit 1; }
+          [ -d "data/anime" ] || { echo "❌ data/anime tidak ada"; exit 1; }
+          echo "✅ Struktur OK"
+          echo "MD files: $(ls src/content/anime/*.md 2>/dev/null | wc -l)"
+          echo "Data folders: $(ls -d data/anime/*/ 2>/dev/null | wc -l)"
+
+      - name: Scan anime
+        id: scan
+        run: |
+          SRC="src/content/anime"
+          DATA="data/anime"
+
+          : > keep.txt
+          : > delete.txt
+          : > orphans.txt
+
+          # ── Iterasi dari MD files ──
+          for md in "$SRC"/*.md; do
+            [ -f "$md" ] || continue
+            slug=$(basename "$md" .md)
+
+            streams_dir="$DATA/$slug/episodes/streams"
+            has_streams=0
+
+            if [ -d "$streams_dir" ]; then
+              count=$(find "$streams_dir" -maxdepth 1 -name '*.json' -type f | wc -l)
+              if [ "$count" -gt 0 ]; then
+                has_streams=1
+              fi
+            fi
+
+            if [ "$has_streams" = "1" ]; then
+              echo "$slug" >> keep.txt
+            else
+              echo "$slug" >> delete.txt
+            fi
+          done
+
+          # ── Cek orphan folder (data ada, MD nggak ada) ──
+          for dir in "$DATA"/*/; do
+            [ -d "$dir" ] || continue
+            slug=$(basename "$dir")
+            if [ ! -f "$SRC/$slug.md" ]; then
+              echo "$slug" >> orphans.txt
+            fi
+          done
+
+          KEEP=$(wc -l < keep.txt)
+          DELETE=$(wc -l < delete.txt)
+          ORPHANS=$(wc -l < orphans.txt)
+
+          echo "keep=$KEEP" >> $GITHUB_OUTPUT
+          echo "delete=$DELETE" >> $GITHUB_OUTPUT
+          echo "orphans=$ORPHANS" >> $GITHUB_OUTPUT
+
+          echo "════════════════════════════════════════"
+          echo "  📊 SCAN RESULT"
+          echo "════════════════════════════════════════"
+          echo "  ✅ Keep:    $KEEP anime"
+          echo "  ❌ Delete:  $DELETE anime"
+          echo "  ⚠️  Orphan:  $ORPHANS folder"
+          echo "════════════════════════════════════════"
+
+      - name: Show delete preview
+        if: steps.scan.outputs.delete != '0'
+        run: |
+          echo "=== 15 slug pertama yang akan dihapus ==="
+          head -15 delete.txt
+          echo "..."
+          echo "Total: $(wc -l < delete.txt) anime"
+
+      - name: Show orphans
+        if: steps.scan.outputs.orphans != '0'
+        run: |
+          echo "=== Folder data tanpa MD ==="
+          cat orphans.txt
+
+      - name: Execute delete
+        if: ${{ github.event.inputs.dry_run == 'false' }}
+        run: |
+          SRC="src/content/anime"
+          DATA="data/anime"
+
+          DELETED=0
+          while IFS= read -r slug; do
+            [ -z "$slug" ] && continue
+            rm -f "$SRC/$slug.md"
+            rm -rf "$DATA/$slug"
+            DELETED=$((DELETED + 1))
+          done < delete.txt
+
+          echo "✅ Deleted: $DELETED anime (MD + folder)"
+
+          # Hapus orphan kalau diminta
+          if [ "${{ github.event.inputs.delete_orphans }}" = "true" ]; then
+            ORPHAN_DELETED=0
+            while IFS= read -r slug; do
+              [ -z "$slug" ] && continue
+              rm -rf "$DATA/$slug"
+              ORPHAN_DELETED=$((ORPHAN_DELETED + 1))
+            done < orphans.txt
+            echo "✅ Orphan deleted: $ORPHAN_DELETED folder"
+          fi
+
+      - name: Commit & push
+        if: ${{ github.event.inputs.dry_run == 'false' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+
+          if git diff --staged --quiet; then
+            echo "ℹ️  Tidak ada perubahan"
+            exit 0
+          fi
+
+          # Hitung jumlah file yang berubah
+          STAT=$(git diff --staged --shortstat)
+          echo "Changes: $STAT"
+
+          git commit -m "chore: prune anime tanpa streams (${{ steps.scan.outputs.delete }} dihapus)"
+          git push
+
+      - name: Summary
+        run: |
+          KEEP=${{ steps.scan.outputs.keep }}
+          DELETE=${{ steps.scan.outputs.delete }}
+          ORPHANS=${{ steps.scan.outputs.orphans }}
+          DRY_RUN=${{ github.event.inputs.dry_run }}
+
+          {
+            echo "### 🌸 Prune Summary"
+            echo ""
+            if [ "$DRY_RUN" = "true" ]; then
+              echo "> 🧪 **DRY RUN** — tidak ada yang dihapus"
+              echo ""
+            fi
+            echo "| Kategori | Jumlah |"
+            echo "|---|---|"
+            echo "| ✅ Keep (punya streams) | **$KEEP** |"
+            echo "| ❌ Delete (tanpa streams) | **$DELETE** |"
+            echo "| ⚠️ Orphan folder | **$ORPHANS** |"
+            echo ""
+            if [ "$DRY_RUN" = "false" ]; then
+              echo "✅ Perubahan sudah di-commit & push."
+            else
+              echo "ℹ️ Re-run dengan **dry_run: false** untuk eksekusi."
+            fi
+          } >> $GITHUB_STEP_SUMMARY
