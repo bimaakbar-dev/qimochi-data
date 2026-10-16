@@ -2,7 +2,7 @@ name: Notify Frontends
 
 on:
    push:
-     branches: [dev]
+     branches: [main, dev]
      paths:
        - 'src/content/anime/**'
        - 'data/anime/**'
