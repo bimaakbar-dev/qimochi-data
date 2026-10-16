@@ -1,0 +1,86 @@
+[
+  {
+    "number": 1,
+    "title": "Barakakodon",
+    "aired": "2014-07-06",
+    "duration": 22,
+    "streams": {
+      "480p": [
+        "https://desustream.net/dstream/desuplay/new/index.php?id=TEJBRVRTeWZXVStjZkFFR0Q3S0pOOTBEby9mdUFtWGg2c25HSElWbHArbz0="
+      ],
+      "360p": [
+        "https://www.mp4upload.com/embed-2sr9c8dutj4l.html"
+      ]
+    }
+  },
+  {
+    "number": 2,
+    "title": "Yakamashika",
+    "aired": "2014-07-13",
+    "duration": 22,
+    "streams": {
+      "480p": [
+        "https://desustream.net/dstream/desuplay/new/index.php?id=TEJBRVRTeWZXVStjZkFFR0Q3S0pONWs1enFxKzJWSXk4WUQxbytmQTZKTT0="
+      ],
+      "360p": [
+        "https://www.mp4upload.com/embed-cf6mnbwfltyq.html"
+      ]
+    }
+  },
+  {
+    "number": 3,
+    "title": "Hitonmochi",
+    "aired": "2014-07-20",
+    "duration": 22,
+    "streams": {
+      "480p": [
+        "https://desustream.net/dstream/desuplay/new/index.php?id=TEJBRVRTeWZXVStjZkFFR0Q3S0pOM1VvUXh1WmV1bEFkQ2hrR2hsaFJDND0="
+      ],
+      "360p": [
+        "https://www.mp4upload.com/embed-33dfaxkkaxd9.html"
+      ]
+    }
+  },
+  {
+    "number": 4,
+    "title": "Shiman Ontsuandon",
+    "aired": "2014-07-27",
+    "duration": 22,
+    "streams": {
+      "480p": [
+        "https://desustream.net/dstream/desuplay/new/index.php?id=TEJBRVRTeWZXVStjZkFFR0Q3S0pONGVFN0xwUVhibnFYcUR2TTBGcmM0Yz0="
+      ],
+      "360p": [
+        "https://www.mp4upload.com/embed-8i0wi40i4bnm.html"
+      ]
+    }
+  },
+  {
+    "number": 5,
+    "title": "Unnioegi",
+    "aired": "2014-08-03",
+    "duration": 22,
+    "streams": {
+      "480p": [
+        "https://desustream.net/dstream/desuplay/new/index.php?id=TEJBRVRTeWZXVStjZkFFR0Q3S0pOOWczY2lTZXc0ZjZJWkF6dkN3SVJYbz0="
+      ],
+      "360p": [
+        "https://www.mp4upload.com/embed-z8h9m32jc3ou.html"
+      ]
+    }
+  },
+  {
+    "number": 6,
+    "title": "Yosonmon",
+    "aired": "2014-08-10",
+    "duration": 22,
+    "streams": {
+      "480p": [
+        "https://desustream.net/dstream/desuplay/new/index.php?id=TEJBRVRTeWZXVStjZkFFR0Q3S0pOOEhza01TZTNwQWpUT0pEWkgwbDV6QT0="
+      ],
+      "360p": [
+        "https://www.mp4upload.com/embed-8wsqyy0nk941.html"
+      ]
+    }
+  }
+]

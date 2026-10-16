@@ -3,6 +3,20 @@
     "number": 13,
     "title": "Forbidden Magic",
     "aired": "2026-06-22",
-    "duration": 24
+    "duration": 24,
+    "streams": {
+      "720p": [
+        "https://odvidhide.com/embed/qfl58swy4qu5",
+        "https://mega.nz/embed/UuoRyABb#CbJfhetykhvyAl9tyX-vbTVfaRkn_wxltteXuVdWM9s",
+        "https://desustream.net/dstream/otakuwatch6/new/hd/index.php?id=V0p4ZlRRaWhZd1ZoWGUwWVgrVUkxZz09",
+        "https://desustream.net/dstream/arcg/?id=ODE3RWtoL3VtWkZ4K2MrWmY3eEhaM3NSN0V5eE0xYkVHeDFVakdEdnRra1hHYld3UXVaUkNycktBeUFlVWQ5cTRmMkNwOThGY0hBUEticC9VaFR3TXc9PQ=="
+      ],
+      "480p": [
+        "https://odvidhide.com/embed/l8l7z0bizqtl",
+        "https://mega.nz/embed/cnAHCIIJ#TeTfn-TcjzrWdYza2y8mQfIbsLy78IuTwxn6IbdMZX8",
+        "https://desustream.net/dstream/otakuwatch6/new/index.php?id=V0p4ZlRRaWhZd1ZoWGUwWVgrVUkxZz09",
+        "https://desustream.net/dstream/arcg/?id=ODE3RWtoL3VtWkZ4K2MrWmY3eEhaM3NSN0V5eE0xYkVHeDFVakdEdnRra1hHYld3UXVaUkNycktBeUFlVWQ5cUU3c29FT1R4L0dqRHQra1ErSlZoUWc9PQ=="
+      ]
+    }
   }
 ]

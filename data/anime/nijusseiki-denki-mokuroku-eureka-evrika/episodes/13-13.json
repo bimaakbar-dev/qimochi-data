@@ -2,6 +2,22 @@
   {
     "number": 13,
     "title": "Episode 13",
-    "duration": 23
+    "duration": 23,
+    "streams": {
+      "720p": [
+        "https://odvidhide.com/embed/ajv25rtmjf6j",
+        "https://mega.nz/embed/C6gSgYZI#Iz8JocJsogfA9o7bImmPWZWR3fvNRqEh7AGe3P8JhbQ",
+        "https://desustream.net/dstream/arcg/?id=MmtBNHNCdk5wUEhzRzh6VXhZWUVOME4wNzFQTHRSUGppQmFjNVFTYi9nQjY0eXFhUFhSazFEUnVuT0t4NCtkRQ=="
+      ],
+      "480p": [
+        "https://odvidhide.com/embed/j1cpyf1djeku",
+        "https://mega.nz/embed/Lz5XBDSB#X49IShG_TPzd8vjXnrfRNq_hpVIip--hZaarkCXgKLc",
+        "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0bnIyejByWDVrd1I5TUV5VXg5aGxJTG5xLzVqWUllV0lsTDBKNVNpcElBRQ=="
+      ],
+      "360p": [
+        "https://odvidhide.com/embed/ga6ah0e1zbih",
+        "https://mega.nz/embed/DqwDXRDZ#yX4ejL6LEpLyJQuY_pIl2AoHbbdDtf53Q0rQjGheLQU"
+      ]
+    }
   }
 ]

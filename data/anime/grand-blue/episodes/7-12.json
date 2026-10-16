@@ -1,0 +1,68 @@
+[
+  {
+    "number": 7,
+    "title": "Doubles",
+    "aired": "2018-08-25",
+    "duration": 24,
+    "streams": {
+      "480p": [
+        "https://desustream.net/dstream/playdesu/new/index.php?id=RFo5SXdqcm9vTzkzQ0NINk1XYVQ3NFQvZlRQUGZyOXZUSGJ2T2ppcjBtND0="
+      ]
+    }
+  },
+  {
+    "number": 8,
+    "title": "Men's Cocktails",
+    "aired": "2018-09-01",
+    "duration": 24,
+    "streams": {
+      "480p": [
+        "https://desustream.net/dstream/playdesu/new/index.php?id=dWRFeFo3WFRrOU9ReTV1K2VucVhrNGZVTUlKYXlkTWNjNFJxR0xMSVl0Yz0="
+      ]
+    }
+  },
+  {
+    "number": 9,
+    "title": "Shopping",
+    "aired": "2018-09-08",
+    "duration": 24,
+    "streams": {
+      "480p": [
+        "https://desustream.net/dstream/playdesu/new/index.php?id=ek9CbldLQUFRenI5VXlHOE1HUlliRG5Jd0o3dk9mUWM3LzRmRGdXUEFyYz0="
+      ]
+    }
+  },
+  {
+    "number": 10,
+    "title": "Arrival in Okinawa",
+    "aired": "2018-09-15",
+    "duration": 24,
+    "streams": {
+      "480p": [
+        "https://desustream.net/dstream/playdesu/new/index.php?id=Z0l2eXZ1MXFkMXlJTnBWTit3Yjh6aEpWT3JmYWdGVTZkWGFaWEYwcTU3Zz0="
+      ]
+    }
+  },
+  {
+    "number": 11,
+    "title": "You Have the Wrong Idea",
+    "aired": "2018-09-22",
+    "duration": 24,
+    "streams": {
+      "480p": [
+        "https://desustream.net/dstream/playdesu/new/index.php?id=Z0l2eXZ1MXFkMXlJTnBWTit3Yjh6aDkyTmphVHlidVhrYUQveERPNDZrUT0="
+      ]
+    }
+  },
+  {
+    "number": 12,
+    "title": "Otori",
+    "aired": "2018-09-29",
+    "duration": 24,
+    "streams": {
+      "480p": [
+        "https://desustream.net/dstream/playdesu/new/index.php?id=Z0l2eXZ1MXFkMXlJTnBWTit3Yjh6Z2hpb0NRV2ZQenRJVzVyb09tS252dz0="
+      ]
+    }
+  }
+]

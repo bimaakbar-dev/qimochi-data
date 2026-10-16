@@ -2,6 +2,20 @@
   {
     "number": 25,
     "title": "Episode 25",
-    "duration": 23
+    "duration": 23,
+    "streams": {
+      "720p": [
+        "https://odvidhide.com/embed/0c4gg3zln4du",
+        "https://mega.nz/embed/8KlHxQoT#_HPCWXTbM2w2OUHVMYI-IrS6gwsonKxZigL4V1Mzn6Q",
+        "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=RGs0bnp1NXVORXFUZitOajY0SnRBZz09",
+        "https://desustream.net/dstream/arcg/?id=UUs1MjBXbGNIR0hvR3ZFcG40OUhpMlV1bnRTYmRzQm1TVVZCcXg4UlF0Ym1heEVCb2NiOEt4R2U4MHVOcUhUM0pHOFZSUEY2dGszQmdhMUtyUUFLYUE9PQ=="
+      ],
+      "480p": [
+        "https://odvidhide.com/embed/lf8e8s2qswug",
+        "https://mega.nz/embed/VPUXCDaJ#bZXLFl_1BXUeYaSdFchuL2H7QdprCcMMduv-8Sunq5I",
+        "https://desustream.net/dstream/desudesu3/new/index.php?id=RGs0bnp1NXVORXFUZitOajY0SnRBZz09",
+        "https://desustream.net/dstream/arcg/?id=UUs1MjBXbGNIR0hvR3ZFcG40OUhpMlV1bnRTYmRzQm1TVVZCcXg4UlF0Ym1heEVCb2NiOEt4R2U4MHVOcUhUM0syMjlWdmR4UWtKVGhMaUFvSk9jZ2c9PQ=="
+      ]
+    }
   }
 ]

@@ -2,6 +2,20 @@
   {
     "number": 13,
     "title": "Episode 13",
-    "duration": 24
+    "duration": 24,
+    "streams": {
+      "720p": [
+        "https://odvidhide.com/embed/whgk2m0uh0ea",
+        "https://mega.nz/embed/8q9zGYgS#C0mEAMFnlrhYiV9Va6X7klX1ndoqzrgxNV4in1ZCVWM",
+        "https://desustream.net/dstream/desudesu3/new/hd/index.php?id=TkJaS1FQV0UxN0pJTjJxRTgvWnA1TXRIT3FRQjNnR2xzaFpwNjkveEdZdz0=",
+        "https://desustream.net/dstream/arcg/?id=SzdpV2N5ZjdSUWUvaHV5REFOOHk0MlBQc3NUYTEvdnhKcExPMGZHdEMwYUVIaW9wYlROdm4rUUNnVzlxcSs5NUxpdUVhRmJocmFQaW0wRUtiazlnSnBCVXJHdW1JWnY1Y3VZWDVISU5Yckk9"
+      ],
+      "480p": [
+        "https://odvidhide.com/embed/pl6krqyrnw31",
+        "https://mega.nz/embed/VmEyiRIa#3HEJJLXCD60LlH5RMPKIntQxnndXrXCfarZ4SmpALZI",
+        "https://desustream.net/dstream/desudesu3/new/index.php?id=TkJaS1FQV0UxN0pJTjJxRTgvWnA1TXRIT3FRQjNnR2xzaFpwNjkveEdZdz0=",
+        "https://desustream.net/dstream/arcg/?id=SzdpV2N5ZjdSUWUvaHV5REFOOHk0MlBQc3NUYTEvdnhKcExPMGZHdEMwYUVIaW9wYlROdm4rUUNnVzlxcSs5NWRGVVFyYzRqVUsvd2ZiSUxmTDE4Tmc9PQ=="
+      ]
+    }
   }
 ]

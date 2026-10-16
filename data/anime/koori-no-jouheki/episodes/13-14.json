@@ -2,11 +2,47 @@
   {
     "number": 13,
     "title": "Episode 13",
-    "duration": 24
+    "duration": 24,
+    "streams": {
+      "720p": [
+        "https://odvidhide.com/embed/gxtksvd1ct7f",
+        "https://mega.nz/embed/b74UiKSb#1xU9FWGtQ_B0suybN3zuAR7gDfEohJykQ3_pBZ1fO1c",
+        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=Z2I0Zlp3bmFMMlY3UW1kTWZyb3BBdz09",
+        "https://desustream.net/dstream/arcg/?id=OHdTSW5ZOVI4TDljZDBSL1FFcFVPRjI1bDIvQUJLTXpsczNRTFJCV2JLcEJEdXFMSzBYSkZoUHNON3ZHL2ZsNQ=="
+      ],
+      "480p": [
+        "https://odvidhide.com/embed/xjfflu6p3q1s",
+        "https://mega.nz/embed/TiABCDjK#CA1UcdgOQBRFrdJG2q5gZohM8NtThRff8tVMZJp8Jvo",
+        "https://desustream.net/dstream/ondesu/v5/index.php?id=Z2I0Zlp3bmFMMlY3UW1kTWZyb3BBdz09",
+        "https://desustream.net/dstream/arcg/?id=OHdTSW5ZOVI4TDljZDBSL1FFcFVPRjI1bDIvQUJLTXpsczNRTFJCV2JLbzAvdVBvSXQrQ2Uvc2Y5ZGYvdGlPNg=="
+      ],
+      "360p": [
+        "https://odvidhide.com/embed/bccbr8xzmkhb",
+        "https://mega.nz/embed/v3IUmZRI#ErscWVvWuRaM69-sJcUDY85IDzqWW4mWBXZc8yRnjhE"
+      ]
+    }
   },
   {
     "number": 14,
     "title": "Episode 14",
-    "duration": 24
+    "duration": 24,
+    "streams": {
+      "720p": [
+        "https://odvidhide.com/embed/9ui2gbm42e7c",
+        "https://mega.nz/embed/OGgnjaBI#Kf2RxkduvVgKnm-OvjjEKaDxb40YZKqcvaeP05PwE-k",
+        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=WS92L2hFMnNQRXAzQ0loZWowU2hoZz09",
+        "https://desustream.net/dstream/arcg/?id=Z1NwMHJhVUpxODNEL24xWk1SWG9GWm1INnMzN1RWVjBFRlh6YUNXalpYZ1R5ZloyOVltN3VFeWxhS216cDlHSmJ2WWtJa2tQbGRSSWdUd0tJMUliakE9PQ=="
+      ],
+      "480p": [
+        "https://odvidhide.com/embed/61dunuu5ljng",
+        "https://mega.nz/embed/WGYDhSIB#mzJfy83-UmZh7BD0OPkwAGwz88v9PUKo6H0mzCyJVYQ",
+        "https://desustream.net/dstream/ondesu/v5/index.php?id=WS92L2hFMnNQRXAzQ0loZWowU2hoZz09",
+        "https://desustream.net/dstream/arcg/?id=Z1NwMHJhVUpxODNEL24xWk1SWG9GWm1INnMzN1RWVjBFRlh6YUNXalpYZzdxd0h5TmJ4bUR0V09RSDl5RnlwZ0tQYStzSVJyL0NSRmFBQzNIR0t0RWc9PQ=="
+      ],
+      "360p": [
+        "https://odvidhide.com/embed/t0go1j4vvnm3",
+        "https://mega.nz/embed/OO4EXDhQ#1-pexh0ZE0b3hKsyuByw3uAAvVzqPU7ywBA6RgIRt3A"
+      ]
+    }
   }
 ]

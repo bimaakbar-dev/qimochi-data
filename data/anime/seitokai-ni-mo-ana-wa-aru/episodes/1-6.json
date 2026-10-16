@@ -1,0 +1,66 @@
+[
+  {
+    "number": 1,
+    "title": "Episode 1",
+    "duration": 24,
+    "streams": {
+      "720p": [
+        "https://odvidhide.com/embed/12bqdq88aa1h",
+        "https://mega.nz/embed/3jIj3b7b#fw6YBCacMqSKEqcV5zYh9ocrzX833VV84J7vc5hhV-o",
+        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=L3kxZHZ3UnpPWkhrTDc5YWxDTU5NZz09",
+        "https://desustream.net/dstream/arcg/?id=QUVkRUh5ZjFXUVJsNUwwNTZJT1YxcFJCaVl1Vm5LOFJkcHB6UmdEQm51SEV4S1BkMG9vUDlHdWlyWG5VQlNLOXpuKy9pQVVaTUkzOGQ0aWF5QU9GeGc9PQ=="
+      ],
+      "480p": [
+        "https://odvidhide.com/embed/vr1psz6zhukb",
+        "https://mega.nz/embed/SnJU1KSb#mrtv_Mt1a7h_rIferptpeah9nSRb56pUW3vzAyo8zVg",
+        "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0dGNKdEhDc0ZXam83Zlh1VzFDbEdpdTR6TGsxQXJrSjdTTFRtRzhESzN5Nw=="
+      ],
+      "360p": [
+        "https://odvidhide.com/embed/c45suskdftz7",
+        "https://mega.nz/embed/e75lCILK#0IqVPh0fpTfAYrQ44tyfJHYR4WKzJ_vFDzXI1Xr6ViM"
+      ]
+    }
+  },
+  {
+    "number": 2,
+    "title": "Episode 2",
+    "duration": 24,
+    "streams": {
+      "720p": [
+        "https://odvidhide.com/embed/meur2llnuupk",
+        "https://mega.nz/embed/G3wigIYA#0mC7yndSzO2qPyATKzlW3l2g9bsR18LgdD37_CR1A7M",
+        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=bmtmdXlxczBqMTYwS204YWNQOVNGUT09",
+        "https://desustream.net/dstream/arcg/?id=N3JWNmlkZi9QUlNRWEhzUDlEWGZBTlRWVFYwL3p5d0pPb3ZDUzU5VGR2UlltTmtYVWg0ZW9mZ2hUYmpxckIwWkhrd09YU25KQi92aW5KZjY4NkFPdHc9PQ=="
+      ],
+      "480p": [
+        "https://odvidhide.com/embed/3solkp20sdcr",
+        "https://mega.nz/embed/XyZVyA5Q#3gdnblgq9i2mfxN0CQCtX1PdPkOra2zWpRZ78prWMBs",
+        "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0dTFrRk1iSlVWVjFIMHVWN3dud3hRZWpnWVZRZHBoVUowcEFZNFRxbzhrVQ=="
+      ],
+      "360p": [
+        "https://odvidhide.com/embed/u5h9vmqgiyv7",
+        "https://mega.nz/embed/K3IjRSaZ#m53Nxf2gq1kI1A2XSgQ8rxy1o3gfjo1Tjg1RMXaFrqU"
+      ]
+    }
+  },
+  {
+    "number": 3,
+    "title": "Episode 3",
+    "duration": 24
+  },
+  {
+    "number": 4,
+    "title": "Episode 4",
+    "duration": 24
+  },
+  {
+    "number": 5,
+    "title": "Episode 5",
+    "duration": 24
+  },
+  {
+    "number": 6,
+    "title": "Episode 6",
+    "duration": 24
+  }
+]

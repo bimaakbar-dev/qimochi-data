@@ -1,0 +1,83 @@
+[
+  {
+    "number": 1,
+    "title": "Episode 1",
+    "duration": 24,
+    "streams": {
+      "720p": [
+        "https://odvidhide.com/embed/3wnv5kd9x62r",
+        "https://mega.nz/embed/yqplTC4Q#bEuNE7L3_bXqaaOdi5N2T6CMbDcGP78eydmI-WIhJ74",
+        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=cnRqdWUwd214WVpENkpEY3pwSytOdz09",
+        "https://desustream.net/dstream/arcg/?id=amhqNTRUdWVtTE9sWWF6anoybHJqVS9CYVhOQUpNZDZrbStYZzVoT2NiUDdvdU12SUlLbGNNc2RSTnpOTzJVM3hSVjI5eGV6NzExUkE3MWYwbER2QUE9PQ=="
+      ],
+      "480p": [
+        "https://odvidhide.com/embed/zxq39bfxmniq",
+        "https://mega.nz/embed/HiZwiazR#sLNeUsqS3Nz2irKnUm6RuK4WyF3L8Q4A6ggBT2V_yZo",
+        "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0bGN6UnZXdUR5bldKRnFpMStGLzR2RG5xYVJPYjdwdG0zQnZwU3hIOE5LYQ=="
+      ],
+      "360p": [
+        "https://odvidhide.com/embed/aqhquxcxk3sp",
+        "https://mega.nz/embed/CrQRUJKa#HanQ_iYRWcL6kobH1o8O7mNctUvOIVlp7NSJAXvFP_w"
+      ]
+    }
+  },
+  {
+    "number": 2,
+    "title": "Episode 2",
+    "duration": 24,
+    "streams": {
+      "720p": [
+        "https://odvidhide.com/embed/z3y7hpnl66wb",
+        "https://mega.nz/embed/n6A32bpb#LJ5VPe2Jwfn0147oUxJFNJGq1DS6EcTb7vfw7KPjbpU",
+        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=SlhySStWdWIxTGRCejcxTnVEOE4xZz09",
+        "https://desustream.net/dstream/arcg/?id=UE1ySDlzSEtRWFQwbGJSWE1hdUQ1SWZzZENDMGFUdlF1aTUrdXhDWDdNTXRoMTkvRHFUSWhmSWJuckhnaGQ4V0JoOWp0RFV1NTRKd0tPN21FZkRITGc9PQ=="
+      ],
+      "480p": [
+        "https://odvidhide.com/embed/xoskxsziok4p",
+        "https://mega.nz/embed/bqxwEJRK#FUWMeB-7amDNQpB1dPKjKLkHhUBAFA8BCH-Ru-omdxM",
+        "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0dHVnYmR0QVBZNzdyeVovdlpxZStHL3VWMXREM0RibDNpYlBhaW44WElTWQ=="
+      ],
+      "360p": [
+        "https://odvidhide.com/embed/132bp2eday6t",
+        "https://mega.nz/embed/j2JgRTTC#gpuoNCBnHwQ0chowv0--0QsN3ydKkZVtc7Rmr5YK93A"
+      ]
+    }
+  },
+  {
+    "number": 3,
+    "title": "Episode 3",
+    "duration": 24,
+    "streams": {
+      "720p": [
+        "https://odvidhide.com/embed/uaf0ha2ujiji",
+        "https://mega.nz/embed/4J5yDKRb#5c5xCFT-VGbtYvm_xm2LGfvigpbtcVdN-1AwZurw3Lo",
+        "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=VUZOQVlzd1RJMWlJMjJzbzhGRHVoS1dadGtoekl3OGRRU0FRdW9Dc055Yz0=",
+        "https://desustream.net/dstream/arcg/?id=OWdIOGtFdEswRW5kWXNjUGM5QytxcXk5UDUvOGtxYStSOGlQUTdXMVk4bE9XaUFOOFd5T2FGUWNvMlBsUUJrVHZXVjRJaFdYNU9XbTBrOUxHUjhxbXc9PQ=="
+      ],
+      "480p": [
+        "https://odvidhide.com/embed/1hwur59gkz4y",
+        "https://mega.nz/embed/tYR0RI7B#IGxB6SxdcuOtPU_AIyf6dv8Wvm-yg8VzUrKAmAbSi_o",
+        "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0amhYc3BJNE5WWUpQc0VIMWc4NVBQcWlJNnUwQmZQWVVVMmZ6RDFkcWIydg=="
+      ],
+      "360p": [
+        "https://odvidhide.com/embed/qtcgc3h8rl2i",
+        "https://mega.nz/embed/QIoDEKjK#PbFixOX-UO7y6wf1bkOnXf0KuRX7xv2WtwD--MGnyug"
+      ]
+    }
+  },
+  {
+    "number": 4,
+    "title": "Episode 4",
+    "duration": 24
+  },
+  {
+    "number": 5,
+    "title": "Episode 5",
+    "duration": 24
+  },
+  {
+    "number": 6,
+    "title": "Episode 6",
+    "duration": 24
+  }
+]

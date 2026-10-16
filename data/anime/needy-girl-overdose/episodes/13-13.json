@@ -2,6 +2,11 @@
   {
     "number": 13,
     "title": "Episode 13",
-    "duration": 24
+    "duration": 24,
+    "streams": {
+      "Unknown": [
+        "http://www.w3.org/2000/svg"
+      ]
+    }
   }
 ]

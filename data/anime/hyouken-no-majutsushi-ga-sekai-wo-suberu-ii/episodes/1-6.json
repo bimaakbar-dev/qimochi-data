@@ -1,0 +1,31 @@
+[
+  {
+    "number": 1,
+    "title": "Episode 1",
+    "streams": {
+      "Unknown": [
+        "https://www.blogger.com/video.g?token=AD6v5dxfkLEXE2lt9psLmqlGhApl8n5juZUN78Tf-y4JhyfR6pXlm9CyWSyLQ06W7HPt7yL_cCe0qed4SYcagAbEgpv6jmazx06BaYEy9F342CXhCmzV7jkViOrWHnR56XJGqu0jWLtY"
+      ]
+    }
+  },
+  {
+    "number": 2,
+    "title": "Episode 2"
+  },
+  {
+    "number": 3,
+    "title": "Episode 3"
+  },
+  {
+    "number": 4,
+    "title": "Episode 4"
+  },
+  {
+    "number": 5,
+    "title": "Episode 5"
+  },
+  {
+    "number": 6,
+    "title": "Episode 6"
+  }
+]

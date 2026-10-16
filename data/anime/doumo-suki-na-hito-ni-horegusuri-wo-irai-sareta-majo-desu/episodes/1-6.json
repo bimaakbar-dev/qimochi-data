@@ -1,0 +1,36 @@
+[
+  {
+    "number": 1,
+    "title": "Episode 1",
+    "streams": {
+      "360p": [
+        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=emtEVmhLR2gybDNSeEZjS0RRNCs5dz09"
+      ]
+    }
+  },
+  {
+    "number": 2,
+    "title": "Episode 2",
+    "streams": {
+      "360p": [
+        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=RjR0dkxiZWhVejhDWlp6bGplZ1h2dz09"
+      ]
+    }
+  },
+  {
+    "number": 3,
+    "title": "Episode 3"
+  },
+  {
+    "number": 4,
+    "title": "Episode 4"
+  },
+  {
+    "number": 5,
+    "title": "Episode 5"
+  },
+  {
+    "number": 6,
+    "title": "Episode 6"
+  }
+]

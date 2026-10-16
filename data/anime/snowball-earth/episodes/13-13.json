@@ -2,6 +2,24 @@
   {
     "number": 13,
     "title": "Episode 13",
-    "duration": 24
+    "duration": 24,
+    "streams": {
+      "720p": [
+        "https://odvidhide.com/embed/zgphd355915c",
+        "https://mega.nz/embed/xZMBGCjI#fHTT2e7zCPMag1XZ4iihmD0nzRoAJW_0F4wBYz14Ya4",
+        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=bm5lSkw4dVdEc1NLRCtsS05NaU0vdz09",
+        "https://desustream.net/dstream/arcg/?id=MVpxRWFGdkVicFBKNTV4RXVyQ2VnUmZsbDVDbitEbmQyWDhhaGwvckNJa2pnS21GeUZHeUpYVXNLWTUxTW9RbW10dWpUVElJNGNqODdvWWlRWTFHdkE9PQ=="
+      ],
+      "480p": [
+        "https://odvidhide.com/embed/wkdesh6pi54h",
+        "https://mega.nz/embed/8ItWlTYS#jBxdX4AavxXCUI06u5lRJtAKtx3uA8MZafNR924POPo",
+        "https://desustream.net/dstream/ondesu/v5/index.php?id=bm5lSkw4dVdEc1NLRCtsS05NaU0vdz09",
+        "https://desustream.net/dstream/arcg/?id=MVpxRWFGdkVicFBKNTV4RXVyQ2VnUmZsbDVDbitEbmQyWDhhaGwvckNJa2pnS21GeUZHeUpYVXNLWTUxTW9RbTRucmtzeURYaU42bWVsWUpEY3ZESlE9PQ=="
+      ],
+      "360p": [
+        "https://odvidhide.com/embed/b563kaa015w5",
+        "https://mega.nz/embed/sMExkBQA#CW-NjvmWicsgKHcUFmLmHMWOqN01tmZk56qSffZRY90"
+      ]
+    }
   }
 ]
