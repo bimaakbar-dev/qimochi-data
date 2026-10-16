@@ -8,13 +8,13 @@ kitsuId: "50076"
 
 type: TV
 status: finished
-rating: PG-13
 source: manga
 
 season: spring
 year: 2026
 episodes: 12
 duration: 25
+rating: PG-13
 
 aired:
   from: "2026-04-04"
@@ -22,6 +22,7 @@ aired:
 
 stats:
   score: 7.9
+  # scoredBy: # edit manual
 
 genres:
   - drama
@@ -36,12 +37,8 @@ trailer: "PZJAOQ-7iJ8"
 draft: false
 ---
 
-"With only your voice and body—master the art."
+Akane Ousaki sejak kecil telah terpesona oleh pertunjukan ajaib ayahnya, Shinta Arakawa. Ia menyaksikan langsung sebuah insiden yang mengejutkan saat ayahnya melakukan pertunjukan penentuan untuk promosi ke jenjang tertinggi, shin'uchi. 
 
-Akane Ousaki, captivated since childhood by the magical performances of her father, Shinta Arakawa, witnesses a shocking incident during his decisive performance for promotion to shin’uchi (master rank).
+Enam tahun kemudian, Akane yang kini sudah duduk di bangku sekolah menengah atas, memutuskan untuk mengikuti jejak ayahnya dan bercita-cita menjadi seorang shin'uchi. Ia memasuki dunia rakugo yang sangat kompetitif, di mana bakat dan ketekunan merupakan kunci untuk mencapai puncak.
 
-Six years later, now a high school student, she sets her sights on becoming a shin’uchi herself—pushing forward in the highly competitive world of rakugo.
-
-A passionate and authentic rakugo drama begins now!
-
-(Source: TV Asahi, edited)
+Dengan penuh semangat dan dedikasi, Akane memulai perjalanan untuk menguasai seni rakugo dan meraih impian menjadi shin'uchi. Pertunjukan rakugo yang penuh dengan emosi dan keaslian pun dimulai, membawa penonton ke dalam dunia yang menarik dan penuh dengan tantangan.
