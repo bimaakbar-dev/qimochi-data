@@ -14,7 +14,7 @@ season: winter
 year: 2025
 episodes: 24
 duration: 23
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2025-01-12"
@@ -40,10 +40,8 @@ trailer: "_5CVMsuuTiU"
 draft: false
 ---
 
-Yuke, a red mage, angrily declares that he's leaving Thunder Pike, the A-rank party he's been with for five years, because he's fed up with being insulted and ridiculed by the other members.
+Yuke, seorang penyihir merah, telah memutuskan untuk meninggalkan Thunder Pike, partai A-rank tempatnya bergabung selama lima tahun. Keputusan ini diambil karena dia sudah tidak tahan lagi dengan ejekan dan hinaan dari anggota partai lainnya.
 
-While searching for a new party, he runs into his former students Marina, Silk, and Rain, and decides to join their party, Clover. Encouraged by their admiration of him as their teacher, Yuke leads them in completing several quests that show off his own extraordinary magic and skills while bringing out the girls' abilities to their fullest.
+Dalam pencarian partai barunya, Yuke bertemu dengan mantan murid-muridnya, Marina, Silk, dan Rain. Mereka kemudian bergabung dengan partai Clover, dan Yuke memutuskan untuk memimpin mereka. Dengan kemampuan sihir dan keahlian luar biasa yang dimilikinya, Yuke membantu para muridnya mengembangkan kemampuan mereka dan menyelesaikan beberapa quest yang menantang.
 
-Then, through an "adventure broadcast" by an artifact known as Camelot, Clover becomes well-known throughout society. The party's dream is to conquer Achromatic Darkness, the most challenging dungeon of all, but as they take on other dungeons in hopes of eventually achieving that goal, they gradually become entangled in chaos that threatens the whole world...
-
-(Source: Crunchyroll)
+Partai Clover kemudian menjadi terkenal di seluruh masyarakat berkat "siaran petualangan" dari artefak Camelot. Mereka memiliki impian untuk menaklukkan Achromatic Darkness, dungeon paling menantang di antara semua. Namun, dalam perjalanan mereka menuju tujuan tersebut, mereka mulai terlibat dalam kekacauan yang mengancam seluruh dunia.
