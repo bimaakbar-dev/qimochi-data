@@ -8,13 +8,13 @@ kitsuId: "46934"
 
 type: TV
 status: finished
-rating: PG-13
 source: original
 
 season: fall
 year: 2023
 episodes: 13
 duration: 24
+rating: PG-13
 
 aired:
   from: "2023-10-05"
@@ -22,6 +22,7 @@ aired:
 
 stats:
   score: 6.8
+  # scoredBy: # edit manual
 
 genres:
   - comedy
@@ -37,12 +38,8 @@ trailer: "2SshK7Ed2g8"
 draft: false
 ---
 
-Konoha Akisato is an illustrator that loves beautiful girls and bishojo games. Her dream is to become a super-popular illustrator, so she is working hard at a bishojo game production company, but reality isn't that kind... With the golden age of social network games in full force, Konoha's company isn't doing well, and she works as a sub illustrator, spending her days painting the backs of random background characters. 
+Konoha Akisato adalah seorang ilustrator yang memiliki kecintaan besar pada gadis-gadis cantik dan game bishojo. Ia bermimpi menjadi ilustrator yang sangat populer, namun kenyataan tidak sepenuhnya berpihak padanya. Perusahaan tempatnya bekerja, yang memproduksi game bishojo, tidak berjalan dengan baik karena boomingnya game jaringan sosial. Konoha hanya bisa bekerja sebagai ilustrator pendukung, menghabiskan hari-harinya dengan melukis karakter latar belakang yang tidak penting.
 
-   One day, the owner of a game shop gives her a classic bishojo game. With all her excitement over the golden age of bishojo games, she opens the package to "Dokyusei," and is enveloped by a bright light. Konoha then realizes that she just traveled back in time!  
+Suatu hari, Konoha menerima hadiah dari pemilik toko game - sebuah game bishojo klasik. Ketika ia membuka paketnya, ia diliputi oleh cahaya terang dan secara ajaib dibawa kembali ke masa lalu. Ia menemukan dirinya di tahun 1992, saat era game bishojo baru saja dimulai. Konoha kemudian bekerja di sebuah perusahaan game bernama Alcohol Soft. Dengan kesempatan ini, apakah ia bisa mewujudkan impiannya untuk menciptakan gadis-gadis cantik yang ia idolakan?
 
-  She ends up in the year 1992! It's the dawn of the bishojo game era! Konoha ends up working at a company called Alcohol Soft. Will she be able to think about, draw, and create all the beautiful girls she’s ever wanted?! 
-
-   A story about a girl and her overwhelming love for beautiful girls—"Now, let's begin!" 
-
-(Source: Crunchyroll)
+Dengan latar belakang yang baru dan penuh dengan kemungkinan, Konoha siap untuk memulai petualangan barunya. Ia akan mengeksplorasi dunia game bishojo di masa lalu dan mengejar impiannya untuk menjadi ilustrator terkenal. Apakah ia bisa sukses dan menciptakan karya yang indah?
