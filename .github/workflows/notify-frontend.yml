@@ -15,6 +15,6 @@ jobs:
       - name: Trigger qimochi rebuild
         uses: peter-evans/repository-dispatch@v4
         with:
-          token: ${{ secrets.FRONTEND_PAT }}
+          token: ${{ secrets.GH_TOKEN }}
           repository: bimaakbar-dev/qimochi
           event-type: data-updated
