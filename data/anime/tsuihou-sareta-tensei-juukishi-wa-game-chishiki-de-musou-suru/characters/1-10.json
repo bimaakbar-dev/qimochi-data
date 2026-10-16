@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Elymas Edvan",
+    "nameNative": "エルマ・エドヴァン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b277688-HqhBRnSIvnMQ.png",
+    "role": "main",
+    "voiceActors": [
+      "takeo-ootsuka"
+    ]
+  },
+  {
+    "name": "Luce Rubis",
+    "nameNative": "ルーチェ・ルービス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b344248-yIAlePtvhgoo.png",
+    "role": "main",
+    "voiceActors": [
+      "shion-wakayama"
+    ]
+  },
+  {
+    "name": "Aizas Edvaughn",
+    "nameNative": "アイザス・エドヴァン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kentarou-tone"
+    ]
+  },
+  {
+    "name": "Ares",
+    "nameNative": "アレス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342590-38kAaKVybBVM.png",
+    "role": "supporting",
+    "voiceActors": [
+      "masahiro-itou"
+    ]
+  },
+  {
+    "name": "Cline",
+    "nameNative": "クライン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "katsumi-fukuhara"
+    ]
+  },
+  {
+    "name": "Goutan",
+    "nameNative": "ゴウタン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tetsu-inada"
+    ]
+  },
+  {
+    "name": "Maris Edvan",
+    "nameNative": "マリス・エドヴァン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342589-vt9AOwRFeY7B.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "natsuko-abe"
+    ]
+  },
+  {
+    "name": "Reiss",
+    "nameNative": "リース",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuri-shimabukuro"
+    ]
+  },
+  {
+    "name": "Teal",
+    "nameNative": "テイル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruki-asada"
+    ]
+  },
+  {
+    "name": "Uketsuke-jou",
+    "nameNative": "受付嬢",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misaki-kuno"
+    ]
+  }
+]

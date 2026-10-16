@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Fuutarou Uesugi",
+    "nameNative": "上杉風太郎",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128063-0h9piZcxa2zt.png",
+    "role": "main",
+    "voiceActors": [
+      "yoshitsugu-matsuoka"
+    ]
+  },
+  {
+    "name": "Ichika Nakano",
+    "nameNative": "中野一花",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126371-0KQpl80s8kXQ.png",
+    "role": "main",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "Itsuki Nakano",
+    "nameNative": "中野五月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126375-dEe9IyQ9By09.png",
+    "role": "main",
+    "voiceActors": [
+      "inori-minase"
+    ]
+  },
+  {
+    "name": "Miku Nakano",
+    "nameNative": "中野三玖",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126373-CWeyXb822uDN.png",
+    "role": "main",
+    "voiceActors": [
+      "miku-itou"
+    ]
+  },
+  {
+    "name": "Nino Nakano",
+    "nameNative": "中野二乃",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126372-DtorHRgQaYUJ.png",
+    "role": "main",
+    "voiceActors": [
+      "ayana-taketatsu"
+    ]
+  },
+  {
+    "name": "Yotsuba Nakano",
+    "nameNative": "中野四葉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126374-Aal36iSQ5nKz.png",
+    "role": "main",
+    "voiceActors": [
+      "ayane-sakura"
+    ]
+  },
+  {
+    "name": "Basket-bu Buchou",
+    "nameNative": "バスケ部部長",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aina-suzuki"
+    ]
+  },
+  {
+    "name": "Hongo",
+    "nameNative": "ホンゴー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157158-HsVW4amaPGq0.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aina-suzuki"
+    ]
+  },
+  {
+    "name": "Isanari Uesugi",
+    "nameNative": "上杉勇也",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130110-GG3wMoAToHYF.png",
+    "role": "supporting",
+    "voiceActors": [
+      "satoshi-hino"
+    ]
+  },
+  {
+    "name": "Josei Kyoushi",
+    "nameNative": "女性教師",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "rika-kinugawa"
+    ]
+  },
+  {
+    "name": "Kyoushi",
+    "nameNative": "教師",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromichi-tezuka"
+    ]
+  },
+  {
+    "name": "Maeda",
+    "nameNative": "前田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157144-eeqJzAn8dbgA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hayato-itou"
+    ]
+  },
+  {
+    "name": "Maruo Nakano",
+    "nameNative": "中野マルオ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135383-lOnQOjuLpWrr.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "takaya-kuroda"
+    ]
+  },
+  {
+    "name": "Matsui",
+    "nameNative": "松井",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b231825-8TeojZy5fxlA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-uchida"
+    ]
+  },
+  {
+    "name": "Oda",
+    "nameNative": "織田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157161-0dwtUdM0TYyH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "ryouta-akazawa"
+    ]
+  },
+  {
+    "name": "Raiha Uesugi",
+    "nameNative": "上杉らいは",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130111-1yzV9Z9X7xwe.png",
+    "role": "supporting",
+    "voiceActors": [
+      "natsumi-takamori"
+    ]
+  },
+  {
+    "name": "Taiiku Kyoushi",
+    "nameNative": "体育教師",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "ryou-sugisaki"
+    ]
+  },
+  {
+    "name": "Tannin Kyoushi",
+    "nameNative": "担任教師",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-seki"
+    ]
+  },
+  {
+    "name": "Yamada",
+    "nameNative": "山田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b242709-LAg4X6xw42ul.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hisako-toujou"
+    ]
+  },
+  {
+    "name": "Yamauchi",
+    "nameNative": "山内",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b242710-OONkJVKJhfzb.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuta-aoki"
+    ]
+  },
+  {
+    "name": "Yotsuba no Tannin",
+    "nameNative": "四葉の担任",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b242711-LEy1BNG3AwvA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinya-takahashi"
+    ]
+  }
+]

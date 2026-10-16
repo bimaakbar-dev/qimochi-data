@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Aoba Suzukaze",
+    "nameNative": "涼風青葉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89641-nVvsn6uqzt2z.png",
+    "role": "main",
+    "voiceActors": [
+      "yuuki-takada"
+    ]
+  },
+  {
+    "name": "Hajime Shinoda",
+    "nameNative": "篠田はじめ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89645-ygtCA0QLEC5i.png",
+    "role": "main",
+    "voiceActors": [
+      "megumi-toda"
+    ]
+  },
+  {
+    "name": "Hifumi Takimoto",
+    "nameNative": "滝本ひふみ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89644-p8wdh7nlI17S.png",
+    "role": "main",
+    "voiceActors": [
+      "megumi-yamaguchi"
+    ]
+  },
+  {
+    "name": "Kou Yagami",
+    "nameNative": "八神コウ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89642-NLyJWTmHPwMD.jpg",
+    "role": "main",
+    "voiceActors": [
+      "youko-hikasa"
+    ]
+  },
+  {
+    "name": "Momiji Mochizuki",
+    "nameNative": "望月紅葉",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123368-nQsEcrDs941g.png",
+    "role": "main",
+    "voiceActors": [
+      "arisa-suzuki"
+    ]
+  },
+  {
+    "name": "Nene Sakura",
+    "nameNative": "桜ねね",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89647-ulMABzKQOOmi.jpg",
+    "role": "main",
+    "voiceActors": [
+      "madoka-asahina"
+    ]
+  },
+  {
+    "name": "Rin Tooyama",
+    "nameNative": "遠山りん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89643-Vu3H5C5lGeVb.png",
+    "role": "main",
+    "voiceActors": [
+      "ai-kayano"
+    ]
+  },
+  {
+    "name": "Shizuku Hazuki",
+    "nameNative": "葉月しずく",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89649-BTg9PFCzwXrr.png",
+    "role": "main",
+    "voiceActors": [
+      "eri-kitamura"
+    ]
+  },
+  {
+    "name": "Tsubame Narumi",
+    "nameNative": "鳴海ツバメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123370-zPV1g4mXJwLS.png",
+    "role": "main",
+    "voiceActors": [
+      "hitomi-oowada"
+    ]
+  },
+  {
+    "name": "Umiko Ahagon",
+    "nameNative": "阿波根うみこ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89648-NDxJh2b2Qmtj.png",
+    "role": "main",
+    "voiceActors": [
+      "chitose-morinaga"
+    ]
+  },
+  {
+    "name": "Yun Iijima",
+    "nameNative": "飯島ゆん",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89646-JxXhzDeNJzwH.png",
+    "role": "main",
+    "voiceActors": [
+      "ayumi-takeo"
+    ]
+  },
+  {
+    "name": "Christina Wako Yamato",
+    "nameNative": "大和・クリスティーナ・和子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123366-lyEFKCXERdCq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "kaori-nazuka"
+    ]
+  },
+  {
+    "name": "Hotaru Hoshikawa",
+    "nameNative": "星川ほたる",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b123367-El9Kzsvb95St.png",
+    "role": "supporting",
+    "voiceActors": [
+      "manaka-iwami"
+    ]
+  },
+  {
+    "name": "Mozuku",
+    "nameNative": "もずく",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/127138-cWw91Mh8ozt8.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "eri-kitamura"
+    ]
+  },
+  {
+    "name": "Okada",
+    "nameNative": "岡田",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b190422-G4tF4kYg2DxR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yuka-nukui"
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Fia Ruud",
+    "nameNative": "フィーア ルード",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b301758-DbpPBn5O933J.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shion-wakayama"
+    ]
+  },
+  {
+    "name": "Zavilia",
+    "nameNative": "ザビリア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b301759-k1KMO4cW117h.jpg",
+    "role": "main",
+    "voiceActors": [
+      "shinnosuke-tokudome"
+    ]
+  },
+  {
+    "name": "Charlotte",
+    "nameNative": "シャーロット",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b394961-jaBFWUCHkj5M.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyuri-shimabukuro"
+    ]
+  },
+  {
+    "name": "Clarissa Abernathy",
+    "nameNative": "クラリッサ・アバネシー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375101-Pwnx01XCuNao.png",
+    "role": "supporting",
+    "voiceActors": [
+      "yukari-tamura"
+    ]
+  },
+  {
+    "name": "Curtis Bannister",
+    "nameNative": "カーティス・バニスター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kikunosuke-toya"
+    ]
+  },
+  {
+    "name": "Cyril Sutherland",
+    "nameNative": "シリル・サザランド",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b356979-fKEeE0PENEMe.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nobunaga-shimazaki"
+    ]
+  },
+  {
+    "name": "Desmond Ronan",
+    "nameNative": "デズモンド・ローナン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375098-fyCAuLHQzemR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tasuku-hatanaka"
+    ]
+  },
+  {
+    "name": "Enoch",
+    "nameNative": "イーノック",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375099-Y9Ny0XcowUpj.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shunichi-toki"
+    ]
+  },
+  {
+    "name": "Fabian Weiner",
+    "nameNative": "ファビアン・ワイナー",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "daiki-yamashita"
+    ]
+  },
+  {
+    "name": "Quentin Agutter",
+    "nameNative": "クェンティン・アガター",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375100-ZAbYou7tCvmJ.png",
+    "role": "supporting",
+    "voiceActors": [
+      "tomokazu-sugita"
+    ]
+  },
+  {
+    "name": "Saviz Náv",
+    "nameNative": "サヴィス・ナーヴ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b356978-l2AzUxteWHK2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuichirou-umehara"
+    ]
+  },
+  {
+    "name": "Zachary Townsend",
+    "nameNative": "ザカリー・タウンゼント",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375102-ujw0c0w6Gupg.png",
+    "role": "supporting",
+    "voiceActors": [
+      "daiki-hamano"
+    ]
+  }
+]

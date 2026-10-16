@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Suzume Tachibana",
+    "nameNative": "橘スズメ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192581-Sz69PWvrk85G.png",
+    "role": "main",
+    "voiceActors": [
+      "kana-ichinose"
+    ]
+  },
+  {
+    "name": "Anzu Shingetsu",
+    "nameNative": "信月杏",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b387722-HqT1o7qnKyVA.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiromi-igarashi"
+    ]
+  },
+  {
+    "name": "Goshujin-sama",
+    "nameNative": "ご主人様",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Nana Komatsu",
+    "nameNative": "小松菜々",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b379813-SxJiPlQMOg3H.png",
+    "role": "supporting",
+    "voiceActors": [
+      "maki-kawase"
+    ]
+  },
+  {
+    "name": "Obaa-sama",
+    "nameNative": "おばあさま",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b402199-lgzRo7lonoLR.png",
+    "role": "supporting",
+    "voiceActors": [
+      "megumi-toyoguchi"
+    ]
+  },
+  {
+    "name": "Ricotta Fresca",
+    "nameNative": "リコッタ・フレスカ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b379812-1OIAOjNPZUYi.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chihiro-suno"
+    ]
+  },
+  {
+    "name": "Sora Endou",
+    "nameNative": "遠藤そら",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b387721-3bD71bcDTIF3.png",
+    "role": "supporting",
+    "voiceActors": [
+      "shizuka-ishigami"
+    ]
+  }
+]

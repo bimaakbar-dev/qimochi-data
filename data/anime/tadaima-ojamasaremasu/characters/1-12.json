@@ -1,0 +1,109 @@
+[
+  {
+    "name": "Akito Satsuki",
+    "nameNative": "佐槻鏡斗",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b380737-OzbWYaw4Ij6F.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kaito-ishikawa"
+    ]
+  },
+  {
+    "name": "Haruma Usada",
+    "nameNative": "右沙田春真",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b380738-K3aNBzr9XSWY.jpg",
+    "role": "main",
+    "voiceActors": [
+      "haruki-ishiya"
+    ]
+  },
+  {
+    "name": "Rinko Nakama",
+    "nameNative": "仲間凛子",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b380736-t8mEaCwGEFjv.jpg",
+    "role": "main",
+    "voiceActors": [
+      "kana-hanazawa"
+    ]
+  },
+  {
+    "name": "Carol Usada",
+    "nameNative": "右沙田キャロル",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b402345-BJAYyBk7DSyA.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "yuuko-kaida"
+    ]
+  },
+  {
+    "name": "Hazuki Takamine",
+    "nameNative": "高峯葉月",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393710-Fycs728HntX7.png",
+    "role": "supporting",
+    "voiceActors": [
+      "riho-sugiyama"
+    ]
+  },
+  {
+    "name": "Hitomi Emoto",
+    "nameNative": "江本瞳",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b402347-bkPDL8RUw7Qh.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aino-shimada"
+    ]
+  },
+  {
+    "name": "Kyou Honda",
+    "nameNative": "誉田杏",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393711-8faV3TOW97wq.png",
+    "role": "supporting",
+    "voiceActors": [
+      "chiaki-kobayashi"
+    ]
+  },
+  {
+    "name": "Mao Usada",
+    "nameNative": "右沙田真央",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393708-PiDxzTvOYcuE.png",
+    "role": "supporting",
+    "voiceActors": [
+      "sumire-morohoshi"
+    ]
+  },
+  {
+    "name": "Masashi Usada",
+    "nameNative": "右沙田マサシ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b402344-tX68NTzY3Y8G.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hidenobu-kiuchi"
+    ]
+  },
+  {
+    "name": "Michio Haruna",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b402348-S4NhfDocQeNy.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinji-kawada"
+    ]
+  },
+  {
+    "name": "Shion Kogi",
+    "nameNative": "小木紫苑",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393709-LRoUsjAPr1Ej.png",
+    "role": "supporting",
+    "voiceActors": [
+      "miyu-tomita"
+    ]
+  },
+  {
+    "name": "Takeru Miki",
+    "nameNative": "三木尊",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b402346-hN1KikeJqHNP.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-miki"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "vanilla-yamazaki",
+    "name": "Vanilla Yamazaki",
+    "nameNative": "山崎バニラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/903.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "vinas-vinas",
+    "name": "Viñas Viñas",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "volcano-oota",
+    "name": "Volcano Oota",
+    "nameNative": "ボルケーノ太田",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n131173-rYdOkQIW8lSn.jpg",
+    "defaultLanguage": "Japanese"
+  }
+]

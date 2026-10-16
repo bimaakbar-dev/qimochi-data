@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Kail Mursili",
+    "nameNative": "カイル・ムルシリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/4586.jpg",
+    "role": "main",
+    "voiceActors": [
+      "wataru-katou"
+    ]
+  },
+  {
+    "name": "Yuri Suzuki",
+    "nameNative": "鈴木夕梨",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8939-FaDciXjsFGA5.jpg",
+    "role": "main",
+    "voiceActors": [
+      "mirai-tachibana"
+    ]
+  },
+  {
+    "name": "Hadi",
+    "nameNative": "ハディ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51101-UmMzb7UmTrm3.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shiki-aoki"
+    ]
+  },
+  {
+    "name": "Il Bani",
+    "nameNative": "イル・バーニ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/37092.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomoaki-maeno"
+    ]
+  },
+  {
+    "name": "Juda Haspasrupi",
+    "nameNative": "ジュダ・ハスパスルピ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shun-horie"
+    ]
+  },
+  {
+    "name": "Kash",
+    "nameNative": "カッシュ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b51105-SSSAbUWYXItY.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "haruki-ishiya"
+    ]
+  },
+  {
+    "name": "Kikkuri",
+    "nameNative": "キックリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35934-tXa8Wan1ynmO.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "tomohiro-oono"
+    ]
+  },
+  {
+    "name": "Mattiwaza",
+    "nameNative": "マッティワザ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b398543-qbhZO8WF1Lvt.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kousuke-toriumi"
+    ]
+  },
+  {
+    "name": "Mittannamuwa",
+    "nameNative": "ミッタンナムワ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b399189-VXXcA9R8LdFD.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shinichirou-kamio"
+    ]
+  },
+  {
+    "name": "Nakia",
+    "nameNative": "ナキア",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/n133348-iB7aNmYPHLWu.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "aya-uchida"
+    ]
+  },
+  {
+    "name": "Rusafa",
+    "nameNative": "ルサファ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51103.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "junya-enoki"
+    ]
+  },
+  {
+    "name": "Ryui",
+    "nameNative": "リュイ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b399191-xXSyd5j8XdB1.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "natsumi-kawaida"
+    ]
+  },
+  {
+    "name": "Satoshi Himuro",
+    "nameNative": "氷室聡",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b393359-LpIAw3adb7Ge.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "hiroki-nanami"
+    ]
+  },
+  {
+    "name": "Shala",
+    "nameNative": "シャラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b399190-jGl1GmVHxcW9.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "misato-matsuoka"
+    ]
+  },
+  {
+    "name": "Urhi",
+    "nameNative": "ウルヒ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b398544-cxUhjnt5PfQa.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kouji-yusa"
+    ]
+  },
+  {
+    "name": "Ursula",
+    "nameNative": "ウルスラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/51107.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "nana-mizuki"
+    ]
+  },
+  {
+    "name": "Usel Ramses",
+    "nameNative": "ウセル・ラムセス",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/18034.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "souma-saitou"
+    ]
+  },
+  {
+    "name": "Yuri no Chichi",
+    "nameNative": "夕梨の父",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "kazuhiko-inoue"
+    ]
+  },
+  {
+    "name": "Yuri no Haha",
+    "nameNative": "夕梨の母",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "minami-takayama"
+    ]
+  },
+  {
+    "name": "Zannanza Hattušili",
+    "nameNative": "ザナンザ・ハットゥシリ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b398542-vvWH7KmoyBt2.jpg",
+    "role": "supporting",
+    "voiceActors": [
+      "shouya-chiba"
+    ]
+  }
+]

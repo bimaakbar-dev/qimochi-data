@@ -1,0 +1,100 @@
+[
+  {
+    "id": "ui-miyazaki",
+    "name": "Ui Miyazaki",
+    "nameNative": "宮崎羽衣",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/309.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "uki-satake",
+    "name": "Uki Satake",
+    "nameNative": "佐武宇綺",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118492-zZQkQM8yFkfD.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "uko-tachibana",
+    "name": "Uko Tachibana",
+    "nameNative": "橘U子",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105833-roYfte0Qvg8n.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "ume-aoki",
+    "name": "Ume Aoki",
+    "nameNative": "蒼樹うめ",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n97969-OLNBRbgwOMWT.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "umeji-sasaki",
+    "name": "Umeji Sasaki",
+    "nameNative": "佐々木梅治",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111567-pL8uhJskQYKk.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "umeka-shouji",
+    "name": "Umeka Shouji",
+    "nameNative": "庄司宇芽香",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102262-NLLVI1VqqIsa.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "umi-tenjin",
+    "name": "Umi Tenjin",
+    "nameNative": "有海 天神",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/486.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "umika-kawashima",
+    "name": "Umika Kawashima",
+    "nameNative": "川島海荷",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/12044.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "umino-kawamura",
+    "name": "Umino Kawamura",
+    "nameNative": "川村海乃",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n301300-U2PJ32xIYVGa.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "uno-kanda",
+    "name": "Uno Kanda",
+    "nameNative": "神田うの",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "unshou-ishizuka",
+    "name": "Unshou Ishizuka",
+    "nameNative": "石塚運昇",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95357-umndcceko65h.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "urara-takano",
+    "name": "Urara Takano",
+    "nameNative": "高乃麗",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95622-dTBTsrkei7v4.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "uta-kawase",
+    "name": "Uta Kawase",
+    "nameNative": "河瀬詩",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n158463-pjeUEhUz4Nck.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "utano-aoi",
+    "name": "Utano Aoi",
+    "nameNative": "葵うたの",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n225571-eiaQTspzeVlJ.png",
+    "defaultLanguage": "Japanese"
+  }
+]

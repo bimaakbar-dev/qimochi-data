@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Hariju Azumu",
+    "nameNative": "ハリージュ・アズム",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b333959-CIekEAdsnJnk.png",
+    "role": "main",
+    "voiceActors": [
+      "youhei-azakami"
+    ]
+  },
+  {
+    "name": "Rose",
+    "nameNative": "ロゼ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b333958-UBRMP6RcZNBH.png",
+    "role": "main",
+    "voiceActors": [
+      "mikako-komatsu"
+    ]
+  },
+  {
+    "name": "Billaura",
+    "nameNative": "ビッラウラ",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b408757-tpCrPa6LTBJH.png",
+    "role": "supporting",
+    "voiceActors": [
+      "akira-sekine"
+    ]
+  },
+  {
+    "name": "Tien",
+    "nameNative": "ティエン",
+    "image": "https://s4.anilist.co/file/anilistcdn/character/large/b408758-k9s0wShBDpYU.png",
+    "role": "supporting",
+    "voiceActors": [
+      "hiro-shimono"
+    ]
+  }
+]

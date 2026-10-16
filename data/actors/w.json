@@ -1,0 +1,135 @@
+[
+  {
+    "id": "waka-kanda",
+    "name": "Waka Kanda",
+    "nameNative": "神田和佳",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/4217.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "wakana-aoi",
+    "name": "Wakana Aoi",
+    "nameNative": "葵わかな",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116037-lucH9hovzbe9.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "wakana-kowaka",
+    "name": "Wakana Kowaka",
+    "nameNative": "小若和郁那",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n143057-SkqUl27e01XN.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "wakana-kuramochi",
+    "name": "Wakana Kuramochi",
+    "nameNative": "倉持若菜",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n224605-hnWbaMungUK8.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "wakana-maruoka",
+    "name": "Wakana Maruoka",
+    "nameNative": "丸岡和佳奈",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n191136-8yc5pWw99zrS.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "wakana-minami",
+    "name": "Wakana Minami",
+    "nameNative": "美波わかな",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n135405-kxXMGBZyQCbx.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "wakana-ookuma",
+    "name": "Wakana Ookuma",
+    "nameNative": "大熊和奏",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n274778-KLzGqQyMGO4Q.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "wakana-yamazaki",
+    "name": "Wakana Yamazaki",
+    "nameNative": "山崎和佳奈",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95496-PAwWafRnHtEf.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "wasabi-mizuta",
+    "name": "Wasabi Mizuta",
+    "nameNative": "水田わさび",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101567-CAAMepraYceN.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "wasei-chikada",
+    "name": "Wasei Chikada",
+    "nameNative": "近田和生",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109227-sBNHKwjBOlcu.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "wataru-hatano",
+    "name": "Wataru Hatano",
+    "nameNative": "羽多野渉",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95098-x6T2xOTuvkuY.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "wataru-katou",
+    "name": "Wataru Katou",
+    "nameNative": "加藤渉",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n145234-wpbiwYFtVCWT.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "wataru-komada",
+    "name": "Wataru Komada",
+    "nameNative": "駒田航",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n126934-dtnzt2NC8X0C.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "wataru-sekine",
+    "name": "Wataru Sekine",
+    "nameNative": "航関根",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/19433.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "wataru-takagi",
+    "name": "Wataru Takagi",
+    "nameNative": "高木渉",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95133-cqDtu078voZ1.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "wataru-tsuyuzaki",
+    "name": "Wataru Tsuyuzaki",
+    "nameNative": "露崎亘",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/125490-EQFhmtXv4Px6.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "wataru-urata",
+    "name": "Wataru Urata",
+    "nameNative": "浦田わたる",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120293-5MFOdjud8KJT.jpg",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "wataru-yokojima",
+    "name": "Wataru Yokojima",
+    "nameNative": "横島亘",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107197-QBADDn9S5JHb.png",
+    "defaultLanguage": "Japanese"
+  },
+  {
+    "id": "win-morisaki",
+    "name": "Win Morisaki",
+    "nameNative": "森崎ウィン",
+    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175964-2D00ttSX4DFy.png",
+    "defaultLanguage": "Japanese"
+  }
+]
