@@ -55,7 +55,18 @@
   {
     "number": 16,
     "title": "Episode 16",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "animesub",
+            "url": "https://desustream.net/dstream/arcg/?id=QVVHemFMQlZxeEhZdEUvaHVBbHZ4cFhMVmlsamx6L0lHV3dYQ25oKzZjcDljbnZQQTJrczNrV2syQkJPaTVObUtjWTlaeXNFZmV6VCtWWXhxSW9hTkxJVDh6d09KZEtxUEQzdDhFUzNEczA9"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 17,
