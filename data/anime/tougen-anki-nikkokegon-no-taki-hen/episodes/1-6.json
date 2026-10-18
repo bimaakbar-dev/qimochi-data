@@ -45,7 +45,18 @@
   {
     "number": 3,
     "title": "Episode 3",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://odvidhide.com/embed/s63pt9g76fpw"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
