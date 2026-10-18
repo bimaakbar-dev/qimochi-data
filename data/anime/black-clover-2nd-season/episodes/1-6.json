@@ -25,7 +25,22 @@
   {
     "number": 3,
     "title": "Episode 3",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dwVC_4jMvYp9W9zgqFLNvMK0urWPL74652K2Pj5IQAcRLsh1q01U-9vri-lgZpo8Rd3ZVdRk0kfciCj6evW1QoVvrpNYK7DFHJkNaoApfdcYJo0uoRFVql-10sHhpTspw2gWISs"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dwVC_4jMvYp9W9zgqFLNvMK0urWPL74652K2Pj5IQAcRLsh1q01U-9vri-lgZpo8Rd3ZVdRk0kfciCj6evW1QoVvrpNYK7DFHJkNaoApfdcYJo0uoRFVql-10sHhpTspw2gWISs"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
