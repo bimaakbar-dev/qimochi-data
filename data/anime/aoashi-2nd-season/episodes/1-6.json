@@ -31,7 +31,18 @@
   },
   {
     "number": 3,
-    "title": "Episode 3"
+    "title": "Episode 3",
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "animesub",
+            "url": "https://desustream.net/dstream/arcg/?id=bkViN1hibkdLeXpjWmtWNXFOVDViMzVjbldZUHV6RCttSWhNSThabko5Mmg3KzVkT05LY0wzNjkyejBQY3JZMnF3bEJ5Yy9qNVBQNisyNG5vM3VOdXRMd1p3ZFRiZEgxU0grNGFtK0NjN0lVQy9vc2xhVmluejdDZ0tFWEtONlg="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
