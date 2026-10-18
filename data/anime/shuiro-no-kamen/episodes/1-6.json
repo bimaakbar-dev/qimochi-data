@@ -11,7 +11,22 @@
   },
   {
     "number": 2,
-    "title": "Episode 2"
+    "title": "Episode 2",
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dxwHJzn9XdOo6NIcI-SSCHVbFdh_0AEIsldGqcVF0Mqr_RDM093HsIMjvXRc3yNxPgWNbtDgK5Y40Z11VPc5j1ODDnxl2b17rLYSCpv_7xUcQ8h_eb28nDmqWg-Uke0fdexyT4-"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://play.xtwap.top/cepat2.php?url=vSc47NMbgmcA4Z8mbQz8lbwlW18XVVxZ3uvP4p%252BqnsLjWRmmAf7NWdTgo2RAmdNMNYkVZH%252BH0c06urKTUjPOvqwiXQoRTw0kh6LhHekSgKdLozcp6dpLqIWRiLufZ1b3nytrPAh4jhHT5K93T1HGqbLPO1iGUFMp4yLc4v2bvo8VdtIJpBcRpmT9zglKKH9tDEPZDcY%253D"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 3,
