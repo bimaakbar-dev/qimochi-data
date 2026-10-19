@@ -4,17 +4,11 @@
     "title": "Tanamachi Kaoru Arc, Chapter 3: Betrayal",
     "aired": "2010-08-12",
     "duration": 24,
-    "streams": [
-      {
-        "quality": "480p",
-        "servers": [
-          {
-            "name": "otakuwatch",
-            "url": "https://desustream.net/dstream/otakuwatch/new/index.php?id=VHNPQktQWCtmUHBSTStTNm1CMmFwWVFreGMrOWs2TDI0eHcyTU9za0ZyVT0="
-          }
-        ]
-      }
-    ]
+    "streams": {
+      "480p": [
+        "https://desustream.net/dstream/otakuwatch/new/index.php?id=VHNPQktQWCtmUHBSTStTNm1CMmFwWVFreGMrOWs2TDI0eHcyTU9za0ZyVT0="
+      ]
+    }
   },
   {
     "number": 8,
