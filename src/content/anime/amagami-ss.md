@@ -14,7 +14,7 @@ season: summer
 year: 2010
 episodes: 25
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2010-07-02"
