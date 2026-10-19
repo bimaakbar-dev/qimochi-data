@@ -3,23 +3,17 @@
     "number": 1,
     "title": "Episode 1",
     "duration": 24,
-    "streams": {
-      "720p": [
-        "https://odvidhide.com/embed/12bqdq88aa1h",
-        "https://mega.nz/embed/3jIj3b7b#fw6YBCacMqSKEqcV5zYh9ocrzX833VV84J7vc5hhV-o",
-        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=L3kxZHZ3UnpPWkhrTDc5YWxDTU5NZz09",
-        "https://desustream.net/dstream/arcg/?id=QUVkRUh5ZjFXUVJsNUwwNTZJT1YxcFJCaVl1Vm5LOFJkcHB6UmdEQm51SEV4S1BkMG9vUDlHdWlyWG5VQlNLOXpuKy9pQVVaTUkzOGQ0aWF5QU9GeGc9PQ=="
-      ],
-      "480p": [
-        "https://odvidhide.com/embed/vr1psz6zhukb",
-        "https://mega.nz/embed/SnJU1KSb#mrtv_Mt1a7h_rIferptpeah9nSRb56pUW3vzAyo8zVg",
-        "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0dGNKdEhDc0ZXam83Zlh1VzFDbEdpdTR6TGsxQXJrSjdTTFRtRzhESzN5Nw=="
-      ],
-      "360p": [
-        "https://odvidhide.com/embed/c45suskdftz7",
-        "https://mega.nz/embed/e75lCILK#0IqVPh0fpTfAYrQ44tyfJHYR4WKzJ_vFDzXI1Xr6ViM"
-      ]
-    }
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=L3kxZHZ3UnpPWkhrTDc5YWxDTU5NZz09"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
