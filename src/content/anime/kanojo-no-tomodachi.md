@@ -14,7 +14,7 @@ season: fall
 year: 2026
 episodes: 12
 duration: 12
-# rating: # edit manual
+rating: R
 
 aired:
   from: "2026-10-05"
@@ -33,7 +33,7 @@ studios:
   - quad
 
 image: "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211877-yWQ2r7XmWvG6.jpg"
-# banner: # edit manual
+banner: "https://media.kitsu.app/anime/50752/cover_image/large-89fef9554596a53004e1cb842d7f9a13.jpeg"
 trailer: "E-stx_wwVSs"
 
 draft: false
