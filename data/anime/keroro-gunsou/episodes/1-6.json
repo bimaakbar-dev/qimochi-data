@@ -37,7 +37,18 @@
     "number": 3,
     "title": "Amphibian On The Verge Of A Nervous Breakdown!",
     "aired": "2004-04-17",
-    "duration": 23
+    "duration": 23,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=MGtMeVcydklaUUVscTFHc1hCTVRuOW5tM1labTl3Zk9zRzczKytMUzlUYz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
