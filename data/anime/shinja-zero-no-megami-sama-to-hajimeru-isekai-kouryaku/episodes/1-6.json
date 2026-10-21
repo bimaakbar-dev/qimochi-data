@@ -21,5 +21,23 @@
         "https://video.sumantritelnologi.workers.dev/https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0a3hvT2xQQjZZRU91dUh1MDY2OHpkVGh1bVc4KzRsb0lOM0lPRUx0eXcxOA=="
       ]
     }
+  },
+  {
+    "number": 2,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dzxJqpTXsJCLgQPKyv0V5StLKdU1W7TnYeVxJC3yGF1EKiU2UJERSCWJEO5r2K8nmi4e4FhAFHMQxoxcmBZQouihnZOBPVBxf6c5v8CsaTe-igvVptY4lTspCj7LmdoAz_mnF8"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://play.xtwap.top/cepat2.php?url=AVnaLMTN0K7Ld6UW2k3T9rTNWFmEC7LVMFedv%252FjtXCEeKDnhCrf7Vhm4fsr1cNDxVx3g7ceGvwvNfGkltZe2BSAu9sKH9xADo%252FDQEHjAT6R6sDqbALOGTSgOrpiGGYEEZy5Pli%252B4cxZz3xrOihZztDRZ8%252F%252Bc0%252BxTlqzMLS9fVGWURfvUu%252FHM99hcDBjHG43CXw%252BeZBw%253D"
+          }
+        ]
+      }
+    ]
   }
 ]
