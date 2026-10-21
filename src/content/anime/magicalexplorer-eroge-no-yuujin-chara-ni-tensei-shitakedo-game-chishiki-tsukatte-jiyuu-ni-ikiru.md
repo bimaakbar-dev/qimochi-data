@@ -14,7 +14,7 @@ season: summer
 year: 2026
 episodes: 13
 duration: 24
-
+rating: PG-13
 aired:
   from: "2026-09-26"
 
@@ -38,8 +38,8 @@ trailer: "XqrBfyUNYZs"
 draft: false
 ---
 
-Few titles are more revered among horndogs-(ahem) connoisseurs of Japanese erotic video games-than Magical Explorer. One day, our smut-loving hero wakes up to find he has been reincarnated into the body of the game’s dreamboat protagonist! Or rather, his hapless comic-relief best friend, Kousuke Takioto. But with his unparalleled knowledge of Magical Explorer and Kousuke’s unorthodox abilities (a scarf that doubles as a fist?), our hero vows to turn the game’s unluckiest loser into its mightiest heartthrob. In this world, nothing is out of reach when you’ve got the know-how!
+Dalam dunia yang penuh dengan keajaiban, seorang pria yang sangat menggemari permainan erotis Jepang bernama Magical Explorer, mendapati dirinya bereinkarnasi ke dalam tubuh protagonis yang sangat ia idolakan. Namun, bukannya menjadi protagonis utama, ia malah bereinkarnasi ke dalam tubuh teman baik protagonis, Kousuke Takioto, yang dikenal sebagai karakter komedi yang sering mengalami kesialan.
 
-(Source: Yen Press)
+Dengan pengetahuan yang sangat luas tentang permainan Magical Explorer, pria ini bertekad untuk mengubah nasib Kousuke dan membuatnya menjadi karakter yang paling kuat dan disukai di dunia tersebut. Ia memiliki keinginan untuk menggunakan pengetahuannya tentang permainan untuk mengubah kehidupan Kousuke dan membuatnya lebih baik.
 
-Note: Each episode streamed 1 week early on ABEMA and d anime store. The original TV broadcast started on October 4th, 2026.
+Dengan kemampuan unik yang dimiliki Kousuke, seperti selendang yang dapat digunakan sebagai senjata, pria ini siap untuk menghadapi tantangan dan membuat perubahan besar di dunia Magical Explorer. Ia memiliki keyakinan bahwa dengan pengetahuan dan kemampuan yang dimiliki, tidak ada yang tidak mungkin untuk diraih di dunia ini.
