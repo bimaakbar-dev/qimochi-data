@@ -37,6 +37,8 @@ banner: "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185874-IdGyh1E
 trailer: "IJONbpfIlUg"
 
 draft: false
+addedAt: "2026-10-21"
+updatedAt: "2026-10-21"
 ---
 
 Ichigo kini berdiri di ambang perang besar antara Soul Reapers dan Quincies yang telah berlangsung selama seribu tahun. Kematian Raja Jiwa mulai memicu kerusakan pada tiga dunia, menyebabkan distorsi dan pertanda kehancuran muncul di mana-mana.
