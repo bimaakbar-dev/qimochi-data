@@ -22,7 +22,22 @@
   },
   {
     "number": 3,
-    "title": "Episode 3"
+    "title": "Episode 3",
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dzuBA36ehjLl7yz5nC4rGQJiT_YmNBLFQDqTiD9FREVOYane9pxqDH02VFh9ZeiNWHJ60IqU81nHSbhLxbfe_R4C9UeoESSDgB-4Z8XfBKZfIeekejGJkZFXJ79x63KHoXIfKM"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://player.abyssplayer.com/f6He_uc31"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
