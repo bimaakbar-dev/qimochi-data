@@ -14,7 +14,7 @@ season: spring
 year: 2023
 episodes: 12
 duration: 23
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2023-04-08"
