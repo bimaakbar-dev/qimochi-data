@@ -18,7 +18,7 @@ aired:
   from: "2026-10-04"
   # to: # edit manual
 
-stats:
+# stats:
   # score: # edit manual
   # scoredBy: # edit manual
 
