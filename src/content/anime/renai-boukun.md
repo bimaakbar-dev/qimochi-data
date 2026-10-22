@@ -14,7 +14,7 @@ season: spring
 year: 2017
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2017-04-07"
