@@ -14,7 +14,7 @@ season: summer
 year: 2023
 episodes: 12
 duration: 24
-# rating: # edit manual
+rating: PG-13
 
 aired:
   from: "2023-07-09"
