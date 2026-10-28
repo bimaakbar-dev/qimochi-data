@@ -43,6 +43,8 @@ trailer: "IDgkCjcNxtU"
 draft: false
 ---
 
-The fight against the Shuuki continues as Chained Soldier returns with more monsters, supernatural action, and spicy 'rewards'! In a world where only women can wield the power of supernatural "Peaches," which grant unusual powers to those who eat them, Yuuki (despite his gender) joins the Demon Defense Squad to combat evil demons called Shuuki from destroying human civilization.
+Di dunia yang dipenuhi dengan kekuatan supernatural, Yuuki bergabung dengan Demon Defense Squad untuk melawan kekuatan jahat yang mengancam peradaban manusia. Ia memiliki kemampuan unik yang tidak dimiliki oleh kebanyakan pria, karena hanya wanita yang dapat memanfaatkan kekuatan "Peaches" yang dapat memberikan kekuatan luar biasa bagi mereka yang memakannya.
 
-(Source: HIDIVE)
+Sebagai anggota Demon Defense Squad, Yuuki harus menghadapi berbagai monster dan kekuatan supernatural yang dikenal sebagai Shuuki. Ia bersama dengan rekan-rekannya harus berjuang untuk melindungi manusia dari kehancuran. Dalam perjuangannya, Yuuki juga menemukan bahwa setiap kemenangan membawa "hadiah" yang menarik dan penuh kejutan.
+
+Musuh-musuh yang kuat dan beragam menantang Yuuki dan rekan-rekannya dalam pertempuran sengit. Dengan kekuatan dan kemampuan uniknya, Yuuki harus menghadapi tantangan ini dan terus maju untuk melindungi dunia dari kekuatan jahat yang mengancam.
