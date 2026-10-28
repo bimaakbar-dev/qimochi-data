@@ -39,7 +39,18 @@
   },
   {
     "number": 4,
-    "title": "Episode 4"
+    "title": "Episode 4",
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://odvidhide.com/embed/400bskw5cyfp"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 5,
