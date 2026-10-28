@@ -55,7 +55,22 @@
   {
     "number": 17,
     "title": "Episode 17",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://vkspeed.com/embed-d3aclco567ov.html"
+          },
+          {
+            "name": "HD-2",
+            "url": "https://vkspeed.com/embed-d3aclco567ov.html"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 18,
