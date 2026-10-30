@@ -2,7 +2,7 @@
   {
     "number": 1,
     "title": "Episode 1",
-    "duration: "24",
+    "duration": "24",
     "streams": {
       "720p": [
         "https://odvidhide.com/embed/bqrnx46lwvqy",
@@ -24,7 +24,7 @@
   {
     "number": 2,
     "title": "Episode 2",
-    "duration: "24",
+    "duration": "24",
     "streams": {
       "720p": [
         "https://odvidhide.com/embed/m85j2dge3i58",
@@ -46,7 +46,7 @@
   {
     "number": 3,
     "title": "Episode 3",
-    "duration: "24",
+    "duration": "24",
     "streams": {
       "720p": [
         "https://odvidhide.com/embed/pllfgp9s6wb0",
@@ -68,7 +68,7 @@
   {
     "number": 4,
     "title": "Episode 4",
-    "duration: "24",
+    "duration": "24",
     "streams": {
       "720p": [
         "https://filedon.co/embed/bWlsaXCPkE",
@@ -93,11 +93,11 @@
   {
     "number": 5,
     "title": "Episode 5",
-    "duration: "24"
+    "duration": "24"
   },
   {
     "number": 6,
     "title": "Episode 6",
-    "duration: "24"
+    "duration": "24"
   }
 ]
