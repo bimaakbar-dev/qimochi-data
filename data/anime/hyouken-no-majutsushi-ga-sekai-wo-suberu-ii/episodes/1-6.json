@@ -2,11 +2,17 @@
   {
     "number": 1,
     "title": "Episode 1",
-    "streams": {
-      "Unknown": [
-        "https://www.blogger.com/video.g?token=AD6v5dxfkLEXE2lt9psLmqlGhApl8n5juZUN78Tf-y4JhyfR6pXlm9CyWSyLQ06W7HPt7yL_cCe0qed4SYcagAbEgpv6jmazx06BaYEy9F342CXhCmzV7jkViOrWHnR56XJGqu0jWLtY"
-      ]
-    }
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=clhEUnRvcWtka1JqSDRlRXl3TDFkRW8rYktFN280UEhuUjNYczlQL0Jnbz0="
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 2,
