@@ -49,19 +49,19 @@
     "duration": 24,
     "streams": {
       "720p": [
-      	"https://odvidhide.com/embed/uatqno82q6q4",
-      	"https://mega.nz/embed/S7xAXS5Y#I3uaNl42ASfelwk5EONlRDEUrghbmmyx-3iW73KrudA",
-      	"https://desustream.net/dstream/ondesu2/new/hd/index.php?id=ZkltWlFUeEpmUk9LQmxuRFBjcDIzVEZaNEZNYVZwY2tXL1FOcm44d3cycz0=",
-      	"https://desustream.net/dstream/arcg/?id=MitVZlY1SFRBbjZxOW0xRmJ6cFBlS1ExVHZnejRTbC81MXljVUxmbjhzaTRFR2RYTENXZEE0c09PRnhMZ0FBalJ2ZnFzMTE5QnpPbXpnWDdLNlNtalE9PQ=="
+        "https://odvidhide.com/embed/uatqno82q6q4",
+        "https://mega.nz/embed/S7xAXS5Y#I3uaNl42ASfelwk5EONlRDEUrghbmmyx-3iW73KrudA",
+        "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=ZkltWlFUeEpmUk9LQmxuRFBjcDIzVEZaNEZNYVZwY2tXL1FOcm44d3cycz0=",
+        "https://desustream.net/dstream/arcg/?id=MitVZlY1SFRBbjZxOW0xRmJ6cFBlS1ExVHZnejRTbC81MXljVUxmbjhzaTRFR2RYTENXZEE0c09PRnhMZ0FBalJ2ZnFzMTE5QnpPbXpnWDdLNlNtalE9PQ=="
       ],
       "480p": [
-      	"https://odvidhide.com/embed/cwsio3lcpekf",
-      	"https://mega.nz/embed/3vgliSaY#jua7nNNZHM-Er66qAVwNNprxnAtfnMjQP03r5LgXrHA",
-      	"https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0dFNiN20vVTd4TWYxcWZGNExFUzJnMEgxbVp3ZGdSQ3dvdE5nUzQwZDZydw=="
+        "https://odvidhide.com/embed/cwsio3lcpekf",
+        "https://mega.nz/embed/3vgliSaY#jua7nNNZHM-Er66qAVwNNprxnAtfnMjQP03r5LgXrHA",
+        "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0dFNiN20vVTd4TWYxcWZGNExFUzJnMEgxbVp3ZGdSQ3dvdE5nUzQwZDZydw=="
       ],
       "360p": [
-      	"https://odvidhide.com/embed/u9glln281u04",
-      	"https://mega.nz/embed/m3RkHKwY#MguRjjuM27gJopWzi0owaSG9_CUQS0_AQB22iYNt3a4"
+        "https://odvidhide.com/embed/u9glln281u04",
+        "https://mega.nz/embed/m3RkHKwY#MguRjjuM27gJopWzi0owaSG9_CUQS0_AQB22iYNt3a4"
       ]
     }
   },
@@ -93,7 +93,18 @@
   {
     "number": 5,
     "title": "Episode 5",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://odvidhide.com/embed/ndnzl016pk5w"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
