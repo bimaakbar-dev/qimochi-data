@@ -47,23 +47,17 @@
     "number": 3,
     "title": "Episode 3",
     "duration": 24,
-    "streams": {
-      "720p": [
-        "https://odvidhide.com/embed/nc68pjt89cee",
-        "https://mega.nz/embed/UdxQkIiC#Y9UhklwmbF6TJF1PfJku1ef0bp_vWfL5PKOqULmGfS4",
-        "https://desustream.net/dstream/ondesu/new/hd/index.php?id=SDJCdVBFcXpNNDh1VkNIaDZhVndKUT09",
-        "https://desustream.net/dstream/arcg/?id=N3JWNmlkZi9QUlNRWEhzUDlEWGZBSWxvVEd0eVFWWDN5OHRwRVFxRjA0cXBtd1FiUHJXaUxnU2xmaU5jNEN4dDBIWmNwUXlsSFpVQlhua1Vpdm9QclE9PQ=="
-      ],
-      "480p": [
-        "https://odvidhide.com/embed/uyirdnqa4a9z",
-        "https://mega.nz/embed/pFJD3ajT#_G3_IoN05adodS03ssMU2IRqv82j5IxRK1DFOOuMO1g",
-        "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0bWMxUHJoQ1NTWmplZW1DeHR2KzB0SEQxdi9ySkZzR3E5T0VEeW91WUxqTw=="
-      ],
-      "360p": [
-        "https://odvidhide.com/embed/uf843l6x74q1",
-        "https://mega.nz/embed/FNwlVQpI#PwWAFmZ1EwZzkaQPVZutcJvZ7nth09AHDNgfxy3bZs0"
-      ]
-    }
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://desustream.net/dstream/ondesu/new/hd/index.php?id=SDJCdVBFcXpNNDh1VkNIaDZhVndKUT09"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 4,
