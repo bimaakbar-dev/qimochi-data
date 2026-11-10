@@ -9,16 +9,16 @@
         "https://mega.nz/embed/ccARDDYJ#14jEwmLH89V8q5Wj8H2OHwUDyM0DaH6NOxadj8XmFl0",
         "https://desustream.net/dstream/ondesu/new/hd/index.php?id=Q0gwd1hKYUU5WjBVMllJc3dJNDZaQT09",
         "https://desustream.net/dstream/arcg/?id=NEhLN1VJV2dteStzcXNwVXdYVHJwL2dwbHpTSW5jenNPd3BneGhabitCNmxlMTVIT1J2WEEvTklWM2lkbi8yd1liVjI1b3YzK1Rkeno0THl4RWxrNXc9PQ=="
-       ],
-       "480p": [
-         "https://odvidhide.com/embed/391l3ggnja7g",
-         "https://mega.nz/embed/AEI3mC7S#1v4BH4VCtH1wJKXMEDSCQ_O4h0qmRm6uJjIUnn3H_dU",
-         "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0azlOdm9kcktPR1VYZnZEZExzWTVKZm0xc1lNUjd3eFpnWThDK3p4Q3dKWA=="
-       ],
-       "360p": [
-         "https://odvidhide.com/embed/dfoj0nzt8g9g",
-         "https://mega.nz/embed/gRhVTKCZ#f2c7UJ_PhahBuEK2CGPmKA0IaSG9GUj7DArSpW0leMc"
-       ]
+      ],
+      "480p": [
+        "https://odvidhide.com/embed/391l3ggnja7g",
+        "https://mega.nz/embed/AEI3mC7S#1v4BH4VCtH1wJKXMEDSCQ_O4h0qmRm6uJjIUnn3H_dU",
+        "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0azlOdm9kcktPR1VYZnZEZExzWTVKZm0xc1lNUjd3eFpnWThDK3p4Q3dKWA=="
+      ],
+      "360p": [
+        "https://odvidhide.com/embed/dfoj0nzt8g9g",
+        "https://mega.nz/embed/gRhVTKCZ#f2c7UJ_PhahBuEK2CGPmKA0IaSG9GUj7DArSpW0leMc"
+      ]
     }
   },
   {
@@ -76,24 +76,35 @@
         "https://mega.nz/embed/y2JjkbiA#ve9L33vTqoT_Aq3_ig81gsyMuZNDmEg6bae5P57EblA",
         "https://desustream.net/dstream/ondesu2/new/hd/index.php?id=dlhwSk0yeVNwaXhhVUFsSjBqOVltRHBZdyszMEtDTmJGSVBqV1Y0Q0R4Zz0=",
         "https://desustream.net/dstream/arcg/?id=Q29mbExNTm1WaFJNMks4bHA3Qkh3bENMZkY5clpuY0lZMk1COVhndXZJcU1PQllzR2lEamtoa0VYakVISkZLQ3A0M21xNFVpQSt4QjVGQksvaXI3UFE9PQ=="
-       ],
-       "480p": [
-         "https://filedon.co/embed/pxZy73cSyY",
-         "https://odvidhide.com/embed/7hf56r2mx6xk",
-         "https://mega.nz/embed/u64lRJgS#pCgroyth-DQ72ypd_PNr41EHX55u2SxoqyDqBpA0kOU",
-         "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0a3BlL0xSeXRZVDVpSzY2Vis3N1NIQWlHS0l2U3RXOUpyckVVSVZ4NTViUA=="
-       ],
-       "360p": [
-         "https://filedon.co/embed/K7OSlG4pLm",
-         "https://odvidhide.com/embed/hz4nw59k6xil",
-         "https://mega.nz/embed/v6Y3SKRL#9eM1MtyakTvGdM2GFrIgxHXC0EkcduYSV_DCZqmRih4"
-       ]
-     }
+      ],
+      "480p": [
+        "https://filedon.co/embed/pxZy73cSyY",
+        "https://odvidhide.com/embed/7hf56r2mx6xk",
+        "https://mega.nz/embed/u64lRJgS#pCgroyth-DQ72ypd_PNr41EHX55u2SxoqyDqBpA0kOU",
+        "https://desustream.net/dstream/odcdn/?id=TXdXSlhBdGVKMGNnWkQyZHF4NWR0a3BlL0xSeXRZVDVpSzY2Vis3N1NIQWlHS0l2U3RXOUpyckVVSVZ4NTViUA=="
+      ],
+      "360p": [
+        "https://filedon.co/embed/K7OSlG4pLm",
+        "https://odvidhide.com/embed/hz4nw59k6xil",
+        "https://mega.nz/embed/v6Y3SKRL#9eM1MtyakTvGdM2GFrIgxHXC0EkcduYSV_DCZqmRih4"
+      ]
+    }
   },
   {
     "number": 5,
     "title": "Episode 5",
-    "duration": "24"
+    "duration": "24",
+    "streams": [
+      {
+        "quality": "360p",
+        "servers": [
+          {
+            "name": "lexanime",
+            "url": "https://odvidhide.com/embed/j145x0mvd40b"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 6,
