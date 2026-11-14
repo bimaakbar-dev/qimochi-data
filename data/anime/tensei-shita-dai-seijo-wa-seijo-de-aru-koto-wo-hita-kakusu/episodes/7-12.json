@@ -2,7 +2,18 @@
   {
     "number": 7,
     "title": "Episode 7",
-    "duration": 24
+    "duration": 24,
+    "streams": [
+      {
+        "quality": "1080p",
+        "servers": [
+          {
+            "name": "mega",
+            "url": "https://mega.nz/embed/nrpBACQA#HguppPew1UvQiDIWsNnkK3Cx9RGRKbFpuIY9xkG7s8A"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
