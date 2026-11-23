@@ -1,7 +1,18 @@
 [
   {
     "number": 7,
-    "title": "Episode 7"
+    "title": "Episode 7",
+    "streams": [
+      {
+        "quality": "720p",
+        "servers": [
+          {
+            "name": "HD-1",
+            "url": "https://www.blogger.com/video.g?token=AD6v5dwjQ0s5YTRDpJ943FKzp0ojA4fBzTzmMoDlhAHkOvhsfZ8J8Q54teengl2YDKEeBQ-MvCj7IHSJBmDGxCaHQM0a6Wfx7kG-wvMTZtf-6WG1p1EzlvCgKL5g2wq7z_wLB5ACbneE"
+          }
+        ]
+      }
+    ]
   },
   {
     "number": 8,
